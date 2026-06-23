@@ -1,0 +1,751 @@
+Topic	TopicDetail	No	QuestionsEng	QuestionsKor	QuestionsViet	AnswersEng	AnswersKor	AudioQuestionsEng	AudioQuestionsKor
+About Yourself	About yourself	1	Let's start with the interview now. Tell me something about yourself	지금부터 인터뷰를 시작하겠습니다. 먼저 자기에 대해 말하십시오!	Bây giờ chúng ta sẽ bắt đầu buổi phỏng vấn. Trước tiên, hãy giới thiệu về bản thân bạn!	"- Hello, please allow me to introduce myself. My name is Dai, and my full name is Luan Van Dai, but you can call me Dai for short. I’m over 30 years old. 
+- I was born and raised in Thai Nguyen, in the north of Vietnam, and now I still live here with my family of four people - my wife, my two children, and me.
+- I work as a mechanical engineer in the production department of an electronics company. 
+- In my free time, I enjoy listening to music, watching movies, and traveling because these activities help me relax.
+- My favorite food is Korean food because it’s delicious and has a unique taste. I also love drinking tea, especially Thai Nguyen tea.
+- My favorite day of the week is Sunday because it’s the day I can rest and relax. I dislike doing housework such as washing dishes and cleaning the bathroom.
+- Most of my friends say that I am friendly and optimistic. The best thing about me is that I am very reliable and dedicated. The worst thing about me is that I am a procrastinator. My favorite motto is “Take action,” because it reminds me to keep moving forward.
+- That’s all about me. Thank you for listening."		https://luandai123.github.io/OpicTest/AboutYourself_1.wav	
+Movies	Kinds of movies to watch and reasons.	1	You indicated in the survey that you like to watch movies. What kinds of movies do you like to watch? Why do you like those types of movies	설문지에 영화를 관람하신다고 표시하셨습니다. 어떤 종류의 영화를 즐겨보시는지 이야기해 주십시오. 이유는 무엇입니까?	Trong bảng khảo sát, bạn đã cho biết bạn có xem phim. Hãy kể về thể loại phim bạn thích xem. Lý do là gì?	"- My favorite kinds of movie are action movies, Vietnam movies and comedies movies.
+- Action movies nowadays are made very well, so they are always my first choice. I feel excited in every single action scene.
+- I also like Vietnam movies. They are usually about family and relationships.They are sometimes very interesting and emotional, so I enjoy watching them with my family.
+- I like comedies because they make me laugh and feel relaxed after a long day.
+- Once again, I am interested in action movies, Vietnam movies and comedies."		https://luandai123.github.io/OpicTest/Movies_1.mp3	
+Movies	Favorite star	2	Who is your favorite star or character from any movie or TV show? Why do you like him or her? Please describe him or her in detail	가장 좋아하는 배우에 대해 이야기해 주십시오. 왜 그 배우가 좋습니까? 그를 자세히 묘사해 보세요.	Hãy nói về diễn viên yêu thích của bạn. Tại sao bạn thích diễn viên đó? Hãy mô tả chi tiết về người đó.	"- My favorite actor is Tự Long. He is a very famous artist in Vietnam. I like him because he is funny and very talented.
+- Tự Long often appears on TV shows and comedy programs. When I watch him, I always laugh because he has a good sense of humor. He knows how to use his voice, his face, and his body to make people laugh.
+- He can play many different roles. Sometimes he is very funny, but sometimes he can be serious. His acting is easy to understand, so people of all ages can enjoy his shows.
+- I also like him because he helps keep Vietnamese traditional culture alive. His performances make me feel relaxed after a long day.
+- That is why Tự Long is my favorite actor."		https://luandai123.github.io/OpicTest/Movies_2.mp3	
+Movies	Favorite movie theater	3	Please tell us about your favorite movie theater. Where are you? What's special about that place	즐겨 가시는 영화관에 대해 말씀해 주십시오. 어디에 있습니까? 그 곳의 특별한 점은 무엇입니까?	Hãy kể về rạp chiếu phim bạn thường đến. Nó ở đâu? Điều gì đặc biệt ở nơi đó?	"- My favorite movie theater is Vincom near my house. It is located inside a big shopping mall, so it is very convenient for me to go there. I usually go by motorbike, and it only takes about ten minutes.
+- What is special about this movie theater is that it is clean, modern, and comfortable. The seats are very soft, and there is a lot of space, so I can relax and enjoy the movie. The screen is large, and the sound system is very clear, which makes the movie more exciting.
+- Another thing I like is the service. The staff are friendly and helpful. There are many kinds of snacks, like popcorn and drinks, and sometimes they have discounts.
+- I often go there with my friends or my family on weekends. For me, this movie theater is a great place to relax and enjoy my free time."		https://luandai123.github.io/OpicTest/Movies_3.mp3	
+Movies	Recent movie experience	4	Tell me about when you went to the movies recently. Who did you go with and how was that day? What did you do before the movie and what did you after	최근 마지막으로 영화를 봤던 경험에 대해 밀씀해 주시겠습니까? 누구와 갔습니까? 영화 관람 전후에 한 일을 포함해서 그날 있었던 모든 일을 이야기해 주십시오.	Bạn có thể kể về lần gần đây nhất bạn đi xem phim không? Bạn đã đi cùng ai? Hãy kể về mọi việc đã xảy ra trong ngày hôm đó, bao gồm cả những gì bạn làm trước và sau khi xem phim.	"- I remember watching a movie with my family recently. It was a reward for my daughter who had been studying hard.
+- The movie we watched was a cartoon, called ""Puss in Boots"".
+- Before watching the movie, we went to the cinema. We bought tickets for 4 people, bought bottled water, snacks and some popcorn.
+- After watching the movie, we went to my friend's house for dinner. We ate, drank wine, and talked about funny stories.
+- It was a memorable day for me."		https://luandai123.github.io/OpicTest/Movies_4.mp3	
+Movies	Recent movie experience	5	Tell us what you usually do when you go to the movies. Please tell us who you are going with and what you do before and after the movie	영화를 보러 갈 때 보통 무엇을 하시는지 이야기해 주십시오. 누구와 함께 가는지 영화 보기 전과 후에는 무엇을 하는지 말씀해 주십시오.	Hãy kể về những gì bạn thường làm khi đi xem phim. Bạn đi cùng ai, và bạn làm gì trước và sau khi xem phim?	"- I remember watching a movie with my family recently. It was a reward for my daughter who had been studying hard.
+- The movie we watched was a cartoon, called ""Puss in Boots"".
+- Before watching the movie, we went to the cinema. We bought tickets for 4 people, bought bottled water, snacks and some popcorn.
+- After watching the movie, we went to my friend's house for dinner. We ate, drank wine, and talked about funny stories.
+- It was a memorable day for me."		https://luandai123.github.io/OpicTest/Movies_5.mp3	
+Movies	Memorable movie	6	Tell us about a memorable movie you've seen before. What is that movie about? What's so special about that movie	과거에 봤던 기억에 남는 영화에 대해 이야기해 주십시오. 그 영화의 내용은 무엇이었습니까? 그리고 특별한 점은 무엇이었습니까?	Hãy kể về một bộ phim đáng nhớ mà bạn đã xem trong quá khứ. Nội dung phim đó là gì? Và điều gì đặc biệt ở bộ phim đó?	"  - I remember watching, “Going Home, My Dear”, a Vietnamese TV series.
+  - The movie told the story of a small family with a father and 3 daughters. Whether life was successful or difficult, home was a place to return, where loving family was always welcome.
+  - One of the reasons why the movie has been so successful was because the content was easy to understand and the actors performed very well.
+  - The movie won many awards at Vietnam VTV Awards.
+  - Looking back, it was one of the most memorable movies of my life."		https://luandai123.github.io/OpicTest/Movies_6.mp3	
+Movies	Cinema (past → now)	7	Today's cinema is much different from the past. Talk about how cinema has changed compared to before	오늘날 영화관은 과거와 다른 점이 많습니다. 영화관이 과거에 비해 어떻게 달라졌는지 말씀해 보십시오.	Ngày nay, rạp chiếu phim có nhiều điểm khác so với trước đây. Hãy nói về việc rạp chiếu phim đã thay đổi như thế nào so với trước đây.	"- Cinema today is very different from cinema in the past. 
+- In the past, movie theaters were simple. The screens were smaller, and the sound quality was not very good. Seats were not very comfortable, and there were not many choices for snacks. People usually watched movies only in theaters or on TV.
+- Today, cinemas are much more modern. The screens are very large, and the picture quality is very clear. The sound system is much better, so the movies feel more exciting and realistic. Seats are more comfortable, and some theaters even have reclining chairs.
+- Another big change is technology. Now we can book tickets online and choose our seats in advance. There are also 3D, 4D, and IMAX movies. In addition, many people watch movies on streaming platforms at home.
+- Overall, cinema today is more convenient, comfortable, and enjoyable than in the past."		https://luandai123.github.io/OpicTest/Movies_7.mp3	
+Movies	Movie preferences (past → now)	8	When did you first go to the movies? Do you remember that time? Was the first movie you saw similar to your current favorite movies	처음으로 영화관에 갔을 때는 언제였습니까? 그 때가 기억납니까? 처음으로 봤던 영화가 현재 좋아하는 영화 취향과 비슷합니까?	Lần đầu tiên bạn đến rạp chiếu phim là khi nào? Bạn có nhớ lúc đó không? Bộ phim đầu tiên bạn xem có giống với sở thích phim hiện tại của bạn không?	"- The first time I watched a movie was not at a cinema. It was at my neighbor’s house when I was very young. At that time, the whole village had only one black-and-white TV. Many people came to that house to watch together, so it was very crowded and lively. I remember sitting on the floor with many adults and children around me.
+- The movie I liked the most at that time was Journey to the West. I was very interested in the characters and the story, even though the picture was not very clear. Everyone watched quietly and enjoyed the show together.
+- As time passed, we started watching color TV at home, and my taste changed. I began to like action movies because they were exciting and fun. Nowadays, I usually watch movies on a big screen TV at home, and sometimes I go to the cinema with my friends to enjoy a better sound and picture."		https://luandai123.github.io/OpicTest/Movies_8.mp3	
+Music	Kinds of music to listen and favorite artists	1	You indicated in the survey that you listen to music. What kinds of music do you listen to? Who are some of your favorite musicians or composers	설문지에 음악을 들으신다고 표시하셨습니다. 어떤 종류의 음악을 들으십니까? 가장 좋아하시는 음악가나 작곡가는 누구입니까?	Trong bảng khảo sát, bạn đã cho biết bạn có nghe nhạc. Bạn nghe loại nhạc nào? Nhạc sĩ hoặc nhà soạn nhạc yêu thích của bạn là ai?	"- My favorite kinds of music are pop, light ballads, and rap. I usually listen to pop music and light ballads when I want to rest or feel calm because the melody is soft and easy to listen to. When I need energy or motivation, I like listening to rap music.
+- My favorite singers are Mỹ Tâm and Đen Vâu. I like Mỹ Tâm because she has a strong and emotional voice, and her songs often have meaningful lyrics. Her music makes me feel comfortable and peaceful. I also like Đen Vâu because his rap songs talk about real life and simple stories. His lyrics are easy to understand and very honest.
+- I usually listen to music at home or when I’m traveling. Music is an important part of my daily life."		https://luandai123.github.io/OpicTest/Music_1.mp3	
+Music	When, where, and how you enjoy music	2	When and where do you usually listen to music? Do you listen to the radio? Are you going to a concert? Let us know how you enjoy the music	보통 언제, 어디서 음악을 들으십니까? 라디오를 들으십니까? 콘서트에 가십니까? 음악을 즐기시는 방법에 대해 말씀해 주십시오.	Bạn thường nghe nhạc khi nào và ở đâu? Bạn có nghe radio không? Bạn có đi xem hòa nhạc không? Hãy kể về cách bạn thưởng thức âm nhạc.	"- I usually listen to music every day, especially in the evening after work or study. I often listen to music at home when I want to relax, and sometimes when I’m traveling, like on the bus or motorbike. Music helps me feel comfortable and reduces stress.
+- I don’t listen to the radio very often now. In the past, I listened to the radio at home with my family, but these days I usually use my phone to listen to music on music apps because it’s more convenient.
+- I don’t go to concerts very often, but I would like to go if my favorite singer has a live show nearby. I really enjoy music by listening quietly, singing along, and sometimes sharing songs with my friends.
+"		https://luandai123.github.io/OpicTest/Music_2.mp3	
+Music	Kinds of musical devices and listening habits	3	What kind of musical devices do you use when you listen to music? When and where do you listen to music using them	음악을 들을 때 어떤 종류의 음악 기기를 사용합니까? 언제 어디서 그 것으로 음악을 듣습니까?	Bạn sử dụng loại thiết bị âm nhạc nào khi nghe nhạc? Bạn nghe nhạc bằng thiết bị đó khi nào và ở đâu?	"- When I listen to music, I usually use my smartphone and wireless earphones. These are the devices I use the most because they are very convenient and easy to carry. I always have my phone with me, so I can listen to music anytime.
+- I usually listen to music at home, especially in the evening after work. I lie on my bed, wear my earphones, and relax while listening to my favorite songs. It helps me reduce stress and feel calm.
+- I also listen to music when I am outside, such as when I am walking, exercising, or waiting for the bus. In these situations, I use my phone and earphones because they block noise and help me focus.
+- Sometimes, on weekends, I play music on a small speaker at home. I usually do this when I clean the house or spend time with my family. Music makes these activities more enjoyable.
+- Overall, using different devices allows me to enjoy music in many places and situations."		https://luandai123.github.io/OpicTest/Music_3.mp3	
+Music	Compare two singers / tracks	4	In the survey, you said you enjoyed listening to music. Select two different tracks or singers and compare them. Please describe each detail and tell us about their similarities and differences	설문조사에서 음악을 즐겨 듣는다고 했습니다. 서로 다른 두 가지 음악 또는 가수를 골라 비교해 주십시오. 둘을 각각 자세히 설명하고 공통점과 차이점에 대해 말씀해 주십시오.	Trong khảo sát, bạn đã nói rằng bạn thích nghe nhạc. Hãy chọn hai thể loại nhạc hoặc ca sĩ khác nhau để so sánh. Hãy mô tả chi tiết từng cái và nói về điểm giống cũng như khác nhau giữa chúng.	"- I would like to compare two singers I enjoy, My Tam and Den Vau. They are both very popular in Vietnam, but they are quite different in many ways.
+- First, My Tam is a female singer who mainly sings pop and light ballad music. Her voice is very warm, emotional, and powerful. When I listen to her songs, I feel relaxed and sometimes touched because the lyrics are about love and life. Her songs are easy to listen to and suitable for many ages.
+- On the other hand, Den Vau is a male rapper who performs rap and hip-hop music. His songs often talk about real life, dreams, and social issues. His voice is calm and natural, and his lyrics are deep and meaningful. When I listen to Den Vau, I feel motivated and inspired.
+- In terms of similarities, both singers write meaningful songs and have a strong message. They are respected artists and have many loyal fans.
+- However, their styles, music genres, and voices are very different, which makes each of them special in their own way."		https://luandai123.github.io/OpicTest/Music_4.mp3	
+Music	Music devices & trends	5	Are there any devices and electronic devices that are attracting the attention of music lovers today? What products are they interested in and why	요즘 음악 좋아하는 사람들이 주목받는 전자 기기나 장비가 있습니까? 어떤 제품이며 관심을 끌고 있는 이유는 무엇입니까?	Gần đây có thiết bị hoặc dụng cụ điện tử nào đang được những người yêu thích âm nhạc chú ý không? Đó là sản phẩm gì và tại sao nó lại thu hút sự quan tâm?	"- Yes, there are many devices and electronic products that attract the attention of music lovers today. Technology has changed the way people listen to and enjoy music.
+- First, wireless earphones  are very popular. Many people like them because they are small, easy to carry, and connect to phones without wires. They are good for listening to music while walking, traveling, or exercising.
+- Second, portable Bluetooth speakers are also attracting attention. These speakers are light and can be taken anywhere. Music lovers often bring them to picnics, parks, or beach trips because they can share music with friends.
+- Another device that many people like is high-quality headphones. These headphones have excellent sound and noise-cancelling features, so listeners can enjoy music without outside noise. Many people use them at home or during study time.
+- Overall, people choose different devices based on how they listen to music and where they are. Technology makes music more enjoyable and easy to access."		https://luandai123.github.io/OpicTest/Music_5.mp3	
+Music	Memorable live music	6	Is there a particularly memorable time when you listen to live music? When was that? Where is it? Who are you with? What made that performance memorable	라이브 음악을 들었을 때 특별하게 기억에 남는 때가 있었습니까? 언제였습니까? 어디에 누구와 함께 있었습니까? 무엇 때문에 그 공연이 기억에 남습니까?	Bạn đã từng có một khoảnh khắc đặc biệt đáng nhớ khi nghe nhạc trực tiếp chưa? Đó là khi nào? Bạn đã ở đâu và với ai? Điều gì khiến buổi biểu diễn đó đáng nhớ?	"- I remember going to a concert with my wife a few years ago. It was a concert by a Vietnamese singer. 
+- The mood of the concert was amazing. The crowd was singing together, and the band performed all their popular songs. People were screaming during the concert and they sang along to most of the songs. The concert was completely sold-out.
+- It was unforgettable because it was my first big concert, and being there with my wife made it even more special. 
+- The energy, the lights, and the music combined to create a memory that I will always remember.
+"		https://luandai123.github.io/OpicTest/Music_6.mp3	
+Music	Music preferences (past → now)	7	How and when did you first become interested in listening to music? How did music influence you? Tell me about it with a lot of details	언제부터 어떻게 처음으로 음악을 듣는 것에 관심을 가지게 되었나요? 음악이 당신에게 어떤 영향을 미쳤나요? 자세한 내용을 이야기해 주세요.	Bạn bắt đầu quan tâm đến việc nghe nhạc từ khi nào và như thế nào? Âm nhạc đã ảnh hưởng đến bạn ra sao? Hãy kể chi tiết.	"- I first became interested in music when I was very young, around six or seven years old. At that time, I usually listened to music with my family at home. My parents often played old Vietnamese songs and traditional music. The melodies were slow and relaxing, so I liked them even though I didn’t understand the lyrics very well.
+- When I became a student, my taste in music started to change. I began listening to pop music and light ballads on TV and the radio. I preferred songs with emotional melodies and simple lyrics because they matched my feelings at that age. I also started choosing music by myself and followed some famous singers.
+- Now, my taste in music is more diverse than before. I still enjoy pop and light ballads, but I also like rap music with meaningful messages. Music is no longer just for fun. It helps me relax, reduce stress, and express my emotions. Overall, my interest in music has grown and changed naturally over the years."		https://luandai123.github.io/OpicTest/Music_7.mp3	
+Music	Music preferences (past → now)	8	You indicated in the survey that you like listening to music. How has your taste in music changed throughout the years	설문조사에서 음악 듣는 것을 좋아한다고 표시했습니다. 최근 몇년동안 음악에 대한 취향이 어떻게 변했습니까?	Trong khảo sát, bạn đã cho biết bạn thích nghe nhạc. Trong những năm gần đây, sở thích âm nhạc của bạn đã thay đổi như thế nào?	"- I first became interested in music when I was very young, around six or seven years old. At that time, I usually listened to music with my family at home. My parents often played old Vietnamese songs and traditional music. The melodies were slow and relaxing, so I liked them even though I didn’t understand the lyrics very well.
+- When I became a student, my taste in music started to change. I began listening to pop music and light ballads on TV and the radio. I preferred songs with emotional melodies and simple lyrics because they matched my feelings at that age. I also started choosing music by myself and followed some famous singers.
+- Now, my taste in music is more diverse than before. I still enjoy pop and light ballads, but I also like rap music with meaningful messages. Music is no longer just for fun. It helps me relax, reduce stress, and express my emotions. Overall, my interest in music has grown and changed naturally over the years."		https://luandai123.github.io/OpicTest/Music_8.mp3	
+Music	Music preferences (past → now)	9	When did you first become interested in music? What kinds of music did you like at first? Tell me how your interest in music developed from your childhood until today	처음으로 음악에 관심을 갖게 된 시기는 언제었습니까? 처음에는 어떤 종류의 음악을 좋아했습니까? 어린 시절부터 오늘날까지 음악에 대한 관심이 어떻게 변했는지 이야기해 주십시오.	Bạn bắt đầu quan tâm đến âm nhạc lần đầu tiên là khi nào? Ban đầu bạn thích loại nhạc nào? Hãy kể về việc sở thích âm nhạc của bạn đã thay đổi như thế nào từ thời thơ ấu đến nay.	"- I first became interested in music when I was very young, around six or seven years old. At that time, I usually listened to music with my family at home. My parents often played old Vietnamese songs and traditional music. The melodies were slow and relaxing, so I liked them even though I didn’t understand the lyrics very well.
+- When I became a student, my taste in music started to change. I began listening to pop music and light ballads on TV and the radio. I preferred songs with emotional melodies and simple lyrics because they matched my feelings at that age. I also started choosing music by myself and followed some famous singers.
+- Now, my taste in music is more diverse than before. I still enjoy pop and light ballads, but I also like rap music with meaningful messages. Music is no longer just for fun. It helps me relax, reduce stress, and express my emotions. Overall, my interest in music has grown and changed naturally over the years."		https://luandai123.github.io/OpicTest/Music_9.mp3	
+Walking	Walking activities, places, and feelings	1	You indicated in the survey that you like walking. What kinds of activities do you usually do when you go to walk? How often do you go walking? When and where do you walk? Tell me about it in as much detail as possible	설문지에 걷기를 좋아하신다고 표시하셨습니다. 걸으러 갈 때 보통 어떤 활동을 하십니까? 얼마나 자주 걷습니까? 언제, 어디서 걷습니까? 가능한 한 자세히 이야기해 주십시오.	Trong bảng khảo sát, bạn đã cho biết bạn thích đi bộ. Khi đi bộ, bạn thường làm những hoạt động gì? Bạn đi bộ thường xuyên như thế nào? Bạn đi bộ khi nào và ở đâu? Hãy kể chi tiết nhất có thể.	"- I enjoy going for walks, and it is one of my favorite daily activities.
+- When I go walking, I usually do light activities such as listening to music, thinking about my day, or sometimes talking with a friend. I don’t walk fast because I want to relax and enjoy the surroundings.
+- I usually go walking in the evening after dinner or early in the morning on weekends.
+- The place I go to most often is a nearby park or a quiet street close to my house. These places are clean and safe, and there are many trees, so the air feels fresh.
+- I usually go walking alone, but sometimes I walk with a family member or a close friend.
+- I go walking about three to four times a week, depending on my schedule and the weather.
+- When I walk, I feel calm and comfortable. Walking helps me reduce stress, clear my mind, and improve my health. That is why I really enjoy walking and try to make it a regular habit in my life."		https://luandai123.github.io/OpicTest/Walking_1.mp3	
+Walking	Walking activities, places, and feelings	2	You mentioned that you enjoy walking. Tell me more about what you do when you go for walks. Where do you usually go and how do you feel while walking	걷기를 즐기신다고 말씀하셨습니다. 산책하러 갈 때 무엇을 하시는지 더 자세히 말씀해 주십시오. 주로 어디로 가시며 걷는 동안 기분이 어떻습니까?	Bạn đã nói rằng bạn thích đi bộ. Hãy kể thêm về những gì bạn làm khi đi bộ. Bạn thường đi đến đâu và bạn cảm thấy thế nào khi đi bộ?	"- I enjoy going for walks, and it is one of my favorite daily activities.
+- When I go walking, I usually do light activities such as listening to music, thinking about my day, or sometimes talking with a friend. I don’t walk fast because I want to relax and enjoy the surroundings.
+- I usually go walking in the evening after dinner or early in the morning on weekends.
+- The place I go to most often is a nearby park or a quiet street close to my house. These places are clean and safe, and there are many trees, so the air feels fresh.
+- I usually go walking alone, but sometimes I walk with a family member or a close friend.
+- I go walking about three to four times a week, depending on my schedule and the weather.
+- When I walk, I feel calm and comfortable. Walking helps me reduce stress, clear my mind, and improve my health. That is why I really enjoy walking and try to make it a regular habit in my life."		https://luandai123.github.io/OpicTest/Walking_2.mp3	
+Walking	Favorite time for walking and reasons	3	What is your favorite time of day to walking? Why? Tell me about it in as much detail as possible	하루 중 가장 좋아하는 산책 시간은 언제입니까? 이유는 무엇입니까? 가능한 한 자세히 이야기해 주십시오.	Thời điểm bạn thích đi bộ nhất trong ngày là khi nào? Tại sao? Hãy kể chi tiết nhất có thể.	"- My favorite time of day to go walking is in the evening. I usually go walking after dinner, around 7 or 8 p.m. At that time, the weather is cooler, and the sun is not too strong, so I feel more comfortable. I don’t like walking in the afternoon because it is usually hot and tiring.
+- In the evening, the streets and parks near my house are quieter and more relaxing. I enjoy seeing people walking, exercising, or spending time with their families. When I walk in the evening, I usually listen to music or just think about my day. It helps me relax after a long day of work or study.
+- Walking in the evening also helps me sleep better. After I get home, I feel calm and less stressed. That is why evening is my favorite time to go walking, and I try to keep this habit as often as possible."		https://luandai123.github.io/OpicTest/Walking_3.mp3	
+Walking	Daily walking duration, distance, and frequency	4	How long do you typically spend walking each day? How far do you walk and how frequently? Please describe your typical daily walking schedule	보통 하루에 얼마나 오랫동안 걷습니까? 얼마나 멀리, 얼마나 자주 걷습니까? 평소의 걷기 일정을 설명해 주십시오.	Bạn thường dành bao lâu để đi bộ mỗi ngày? Bạn đi bộ bao xa và thường xuyên như thế nào? Hãy mô tả lịch trình đi bộ hàng ngày thông thường của bạn.	"- On a typical day, I spend about thirty to forty minutes walking. I usually walk around two to three kilometers, depending on how much time I have. I try to go walking at least five days a week, so it has become a regular habit for me.
+- My walking schedule is quite simple. On weekdays, I usually go walking in the evening after dinner. I leave my house around 7 p.m. and walk around the park or along the quiet streets near my home. On weekends, I sometimes walk in the morning if the weather is nice, and I walk a little longer than usual.
+- While walking, I don’t rush. I walk at a comfortable pace and enjoy the time. Sometimes I listen to music, and sometimes I just relax and think. Walking every day helps me stay healthy and clear my mind, so I try to keep this routine as much as possible."		https://luandai123.github.io/OpicTest/Walking_4.mp3	
+Walking	Benefits of walking	5	What are some benefits of incorporating walking into your daily routine? Tell me about it in as much detail as possible	일상생활에 걷기를 포함시키면 어떤 이점이 있습니까? 가능한 한 자세히 이야기해 주십시오.	Việc đưa đi bộ vào thói quen hàng ngày mang lại những lợi ích gì? Hãy kể chi tiết nhất có thể.	"- Walking every day brings many good things for my body and mind.
+- First, walking helps me stay healthy. I don’t need special tools, but I can still burn calories, make my heart stronger, and keep my body active. When I walk often, I feel less tired and more comfortable.
+- Walking also helps me reduce stress. I usually walk in the morning or in the evening after work. When I walk, I can relax and stop thinking about my problems. Walking in a quiet place like a park or near my house makes me feel calm. Sometimes I listen to music while walking, and it makes me feel happier.
+- Besides that, walking helps my mood and sleep. After walking, I feel more positive and peaceful. At night, I can sleep better and fall asleep faster. In short, walking is a simple and useful habit. It helps me stay healthy, feel relaxed, and enjoy life more."		https://luandai123.github.io/OpicTest/Walking_5.mp3	
+Walking	Walking preferences (past → now)	6	When did you start walking regularly? What motivated you to begin walking	언제부터 규칙적으로 걷기 시작하셨습니까? 걷기를 시작하게 된 계기는 무엇입니까?	Bạn bắt đầu đi bộ đều đặn từ khi nào? Điều gì đã thúc đẩy bạn bắt đầu đi bộ?	"- I started walking regularly about two years ago. At that time, I was very busy with work and spent most of my day sitting. I didn’t exercise much, and I often felt tired and stressed. One day, I realized that I needed to change my lifestyle to be healthier.
+- The main motivation for me to begin walking was my health. I wanted to lose a little weight and improve my energy level, but I didn’t want to do difficult exercises. Walking was easy, free, and suitable for my schedule. I started with short walks in the evening around my neighborhood.
+- After a few weeks, I noticed many positive changes. I felt more relaxed, slept better, and had more energy during the day. Because of these benefits, walking became a habit.
+- Now, I continue walking regularly because it helps me stay healthy, reduce stress, and enjoy some quiet time for myself."		https://luandai123.github.io/OpicTest/Walking_6.mp3	
+Park	Park activities	1	You indicated that you like to go to parks. Please explain to me what kind of activities you do in the park	설문지에 공원에 가신다고 표시하셨습니다. 공원에서 주로 어떤 활동을 하시는지 설명해 주십시오.	Trong bảng khảo sát, bạn đã cho biết bạn có đi công viên. Hãy cho tôi biết bạn thường làm những hoạt động gì ở công viên.	"- I like going to the park because it helps me relax and stay healthy.
+- When I go to the park, I usually do simple activities. I often walk around the park, do some light exercises, and sometimes sit on a bench to rest. If I go with other adults, we usually talk together and enjoy the fresh air.
+- I go to the park about two or three times a week, especially in the early morning or in the evening. I usually go to a nearby park close to my house, so it is very convenient. Most of the time, I go with my family members or adult friends because it is more enjoyable and safer.
+- The parks I like are not too crowded and are very clean. They usually have many trees, walking paths, and some exercise equipment for adults. Some parks also have small lakes or open spaces, so they feel calm and comfortable. 
+- That is why I keep going to the park regularly."		https://luandai123.github.io/OpicTest/Park_1.mp3	
+Park	Park activities	2	In the survey, you answered that you go to the park. How often do you go to the park? Where do you usually go? Who are you going with? tell me in detai	설문조사에서 공원에 가신다고 답하셨습니다. 얼마나 자주 공원에 가십니까? 주로 어디로 가십니까? 누구와 함께 가십니까? 자세히 이야기해 보세오	Trong khảo sát, bạn đã trả lời rằng bạn có đi công viên. Bạn đi công viên thường xuyên như thế nào? Bạn thường đến đâu? Bạn đi cùng ai? Hãy kể chi tiết.	"- I like going to the park because it helps me relax and stay healthy.
+- When I go to the park, I usually do simple activities. I often walk around the park, do some light exercises, and sometimes sit on a bench to rest. If I go with other adults, we usually talk together and enjoy the fresh air.
+- I go to the park about two or three times a week, especially in the early morning or in the evening. I usually go to a nearby park close to my house, so it is very convenient. Most of the time, I go with my family members or adult friends because it is more enjoyable and safer.
+- The parks I like are not too crowded and are very clean. They usually have many trees, walking paths, and some exercise equipment for adults. Some parks also have small lakes or open spaces, so they feel calm and comfortable. 
+- That is why I keep going to the park regularly."		https://luandai123.github.io/OpicTest/Park_2.mp3	
+Park	Park activities	3	You indicated in the survey that you go to parks with adults. Tell me about the kinds of parks that you like to visit. What do the parks look like	설문지에 어른들과 함께 공원에 간다고 표시하셨습니다. 즐겨 방문하시는 공원의 종류에 대해 말씀해 주십시오. 그 공원들은 어떻게 생겼습니까?	Trong bảng khảo sát, bạn đã cho biết bạn đi công viên cùng người lớn. Hãy kể về những loại công viên bạn thích đến. Những công viên đó trông như thế nào?	"- I like going to the park because it helps me relax and stay healthy.
+- When I go to the park, I usually do simple activities. I often walk around the park, do some light exercises, and sometimes sit on a bench to rest. If I go with other adults, we usually talk together and enjoy the fresh air.
+- I go to the park about two or three times a week, especially in the early morning or in the evening. I usually go to a nearby park close to my house, so it is very convenient. Most of the time, I go with my family members or adult friends because it is more enjoyable and safer.
+- The parks I like are not too crowded and are very clean. They usually have many trees, walking paths, and some exercise equipment for adults. Some parks also have small lakes or open spaces, so they feel calm and comfortable. 
+- That is why I keep going to the park regularly."		https://luandai123.github.io/OpicTest/Park_3.mp3	
+Park	Comparing park activities and facilities for children and adults	4	The activities that children and adults do at the park that they frequent will be different. Compare activities and tell us what facilities they prefer to use	자주 가는 공원에서 아이들과 어른들이 하는 활동들은 서로 다릅니다. 그 활동들을 비교하고 그들이 어떤 시설을 즐겨 이용하는지 말씀해 주십시오.	Ở công viên bạn thường đến, trẻ em và người lớn thường có những hoạt động khác nhau. Hãy so sánh các hoạt động đó và cho biết họ thích sử dụng những tiện ích nào.	"- The activities that children and adults do at the park are quite different.
+- Children usually go to the park to play and have fun. They like to run around, play games, and spend time with their friends. Most children enjoy using facilities such as slides, swings, seesaws, and playground areas. These places are colorful and exciting, so children can move a lot and release their energy.
+- On the other hand, adults usually go to the park to relax or exercise. They often walk, jog, or use outdoor exercise equipment. Some adults prefer to sit on benches, read books, talk with friends, or enjoy the fresh air. The facilities adults like include walking paths, fitness machines, benches, and open spaces.
+- In short, children focus more on playing, while adults focus more on relaxing and staying healthy."		https://luandai123.github.io/OpicTest/Park_4.mp3	
+Park	Comparing two parks (activities and preferences)	5	In the survey, you indicate that you go to the park frequently. Select the two parks you've been to and compare them. Which park is better? Why? What do people usually do there	설문지에 공원에 자주 간다고 표시했습니다. 지금까지 가 본 공원 두 곳을 골라 비교해 보십시오. 어떤 공원이 더 낫습니까? 그 이유는 무엇입니까? 보통 사람들은 그 곳에서 무엇을 합니까?	Trong bảng khảo sát, bạn đã cho biết bạn thường xuyên đi công viên. Hãy chọn hai công viên bạn từng đến để so sánh. Công viên nào tốt hơn? Tại sao? Mọi người thường làm gì ở đó?	"- I often go to parks in my free time because they are great places to relax and enjoy nature. Two parks I visit frequently are Central Park and Riverside Park.
+- Central Park is very large and has many attractions. People usually go there to walk, jog, ride bikes, have picnics, or even attend cultural events. It also has beautiful landmarks like Bethesda Terrace and Bow Bridge.
+- On the other hand, Riverside Park is quieter and more peaceful. People often go there to exercise, walk their dogs, play sports, or just enjoy the view of the river. Compared to Central Park, Riverside Park is less crowded and more suitable for relaxing.
+- In my opinion, both parks are nice, but it depends on what you want to do. If you like variety and lively activities, Central Park is better. If you prefer peace and quiet, Riverside Park is the best choice.
+- Personally, I enjoy going to Central Park because it has so many things to do and see."		https://luandai123.github.io/OpicTest/Park_5.mp3	
+Park	Recent park experience	6	Tell us about your recent experience at the park. What park is it? When was the last time you went there? Tell me everything you did from the moment you arrived at the park until you left	최근에 공원에 간 경험에 대해 말씀해 주십시오. 어떤 공원입니까? 그곳에 마지막으로 갔을 때는 언제입니까? 공원에 도착한 순간부터 떠나기 전까지 한 모든 것을 말씀해 주십시오.	Hãy kể về trải nghiệm gần đây bạn đến công viên. Đó là công viên nào? Lần gần đây nhất bạn đến đó là khi nào? Hãy kể tất cả những gì bạn đã làm từ lúc đến công viên cho đến trước khi rời đi.	"- I’d like to talk about my recent experience at the park.
+- The park I went to is a public park near my house. The last time I went there was last weekend, on Sunday morning. I went there with one of my close friends because the weather was nice and we wanted to relax.
+- When I arrived at the park, the first thing I did was walk around to enjoy the fresh air. The park was very clean and quiet, and there were many trees and flowers. After that, my friend and I walked on the walking path for about thirty minutes. We talked about our work and daily life while walking.
+- Then, we stopped at a bench and sat down for a short break. I drank some water, and my friend took a few photos. After resting, we used some outdoor exercise equipment for a while. It was not very hard, but it helped us stretch our bodies.
+- Before leaving, we bought some drinks from a small shop near the park entrance. Finally, we left the park feeling relaxed and refreshed. It was a simple but enjoyable experience."		https://luandai123.github.io/OpicTest/Park_6.mp3	
+Park	Memorable park experience	7	Tell us about a memorable experience you had at the park. Maybe there was a special event or something unexpected happened. Please tell us about the background of the case. And please tell me in detail what happened	공원에서 겪었던 기억에 남는 경험을 말씀해 주십시오. 특별한 행사가 있었을 수도 있고, 예상치 못한 일이 발생했을 수도 있습니다. 사건의 배경에 대해 알려 주십시오. 그리고 무슨 일이 일어났는지 자세히 말씀해 주십시오.	Hãy kể cho tôi nghe về một trải nghiệm đáng nhớ mà bạn đã có ở công viên. Có thể đã có một sự kiện đặc biệt, hoặc một điều gì đó bất ngờ đã xảy ra. Hãy cho tôi biết bối cảnh của sự việc. Sau đó, hãy kể chi tiết chuyện gì đã xảy ra.	"- Last summer, I went to Central Park with some friends to relax and enjoy the sunny weather.
+- When we arrived, we noticed a small outdoor music festival happening in the park. We hadn’t planned to join, but the music was lively and cheerful, so we decided to stay.
+- We tried some food from the stalls, like homemade lemonade and snacks, which were really delicious. Then, we joined a short dance workshop on the grass. It was funny because some of us were uncoordinated, but everyone was laughing and having fun.
+- Later, we even met one of the performers and took a photo with them. The atmosphere was lively and joyful, and it turned a normal afternoon into a memorable experience."		https://luandai123.github.io/OpicTest/Park_7.mp3	
+Park	Park visit preferences (past → now)	8	How did you first start going to the park? What brought you to the park? What keeps you going to the park now	어떻게 처음 공원에 가기 시작했습니까? 무슨 일로 공원에 방문했습니까? 지금은 무슨 이유로 공원에 가는 것을 유지합니까?	Bạn đã bắt đầu đi công viên như thế nào lần đầu tiên? Bạn đến công viên vì lý do gì? Hiện tại bạn vẫn duy trì việc đi công viên vì lý do gì?	"- I first started going to the park when I was a child. My parents used to take me there on weekends to play and enjoy the outdoors. I loved running around, exploring the playgrounds, and seeing other kids, so it quickly became one of my favorite places.
+- As I got older, I started going to the park on my own or with friends. What brought me there at first was mostly exercise, like jogging or riding my bike, and sometimes just relaxing or having a picnic.
+- What keeps me going to the park now is a combination of reasons. I enjoy spending time in nature, getting some fresh air, and taking a break from my busy daily life. It’s also a great place to meet friends, attend small events, or just clear my mind when I feel stressed."		https://luandai123.github.io/OpicTest/Park_8.mp3	
+Beach	Beach visits, locations, companions, and activities	1	You say you love going to the beach. Which beach do you like to go to? Where is it? What do you usually do at this beach? Please be as detailed as possible	바닷가에 가는 것을 좋아한다고 했습니다. 어떤 바닷가에 가는 것을 좋아합니까? 어디에 있습니까? 그 곳에서 주로 무엇을 합니까? 가능한 한 자세히 말씀해 주십시오.	Bạn đã nói rằng bạn thích đi biển. Bạn thích đi bãi biển nào? Nó ở đâu? Bạn thường làm gì ở đó? Hãy kể càng chi tiết càng tốt.	"- Yes, I go to the beach quite often, especially during the summer or on holidays. I usually go to Da Nang Beach, which is one of my favorite beaches because it is clean, beautiful, and easy to access.
+- I usually travel with my family or close friends, depending on the occasion. When I’m with my family, the trip feels more relaxing, and when I go with friends, it’s more fun and energetic.
+- At the beach, I enjoy taking long walks along the shore and listening to the sound of the waves. I often swim in the ocean or relax on the sand while enjoying the sea breeze. Sometimes, we take photos, watch the sunrise or sunset, and enjoy fresh seafood at nearby restaurants.
+- Overall, going to the beach helps me relax, reduce stress, and spend quality time with the people I care about."		https://luandai123.github.io/OpicTest/Beach_2.mp3	
+Beach	Beach visits, locations, companions, and activities	2	What do you do when you go to the beach? Tell me about your favourite activities when you go to the beach	바닷가에 가면 보통 무엇을 하십니까? 바닷가에서 선호하는 활동들에 대해 말씀해 주십시오.	Khi đi biển, bạn thường làm gì? Hãy kể về những hoạt động bạn thích làm ở bãi biển.	"- Yes, I go to the beach quite often, especially during the summer or on holidays. I usually go to Da Nang Beach, which is one of my favorite beaches because it is clean, beautiful, and easy to access.
+- I usually travel with my family or close friends, depending on the occasion. When I’m with my family, the trip feels more relaxing, and when I go with friends, it’s more fun and energetic.
+- At the beach, I enjoy taking long walks along the shore and listening to the sound of the waves. I often swim in the ocean or relax on the sand while enjoying the sea breeze. Sometimes, we take photos, watch the sunrise or sunset, and enjoy fresh seafood at nearby restaurants.
+- Overall, going to the beach helps me relax, reduce stress, and spend quality time with the people I care about."		https://luandai123.github.io/OpicTest/Beach_3.mp3	
+Beach	Beach visits, locations, companions, and activities	3	Do you often go to the beach? Where do you usually go? Who are you traveling with? Tell us about the activities you do there	얼마나 자주 해변에 갑니까? 주로 어디로 갑니까? 누구와 함께 갑니까? 그 곳에서 하는 활동들에 대해 말씀해 주십시오.	Bạn đi biển thường xuyên như thế nào? Bạn thường đến đâu? Bạn đi cùng ai? Hãy kể về những hoạt động bạn làm ở đó.	"- Yes, I go to the beach quite often, especially during the summer or on holidays. I usually go to Da Nang Beach, which is one of my favorite beaches because it is clean, beautiful, and easy to access.
+- I usually travel with my family or close friends, depending on the occasion. When I’m with my family, the trip feels more relaxing, and when I go with friends, it’s more fun and energetic.
+- At the beach, I enjoy taking long walks along the shore and listening to the sound of the waves. I often swim in the ocean or relax on the sand while enjoying the sea breeze. Sometimes, we take photos, watch the sunrise or sunset, and enjoy fresh seafood at nearby restaurants.
+- Overall, going to the beach helps me relax, reduce stress, and spend quality time with the people I care about."		https://luandai123.github.io/OpicTest/Beach_4.mp3	
+Beach	Bad weather & alternatives	4	Does bad weather ever stop you from going to the beach? What is the weather like and what are the alternatives to that situation	날씨가 안 좋아서 해변 여행을 하지 못한 적이 있습니까? 날씨는 어땠으며 그 상황의 대안은 무엇이었습니까?	Bạn đã từng không thể đi biển vì thời tiết xấu chưa? Thời tiết lúc đó như thế nào và bạn đã có giải pháp thay thế nào cho tình huống đó?	"- Yes, bad weather stops me from going to the beach. When the weather is rainy, stormy, or very windy, it’s not safe or enjoyable to be near the ocean.
+Usually, the weather that prevents me from going to the beach includes heavy rain, strong winds, or rough waves. During these times, the beach can feel uncomfortable and even dangerous, so I prefer to stay away.
+- When this happens, I choose alternative activities instead. I usually stay indoors, relax at home, watch movies, or listen to music. Sometimes, I go to a café or a shopping mall with friends, or I visit indoor attractions like museums or aquariums.
+- Even though I enjoy the beach a lot, I believe it’s better to wait for good weather so I can fully enjoy the experience."		https://luandai123.github.io/OpicTest/Beach_5.mp3	
+Beach	A memorable beautiful beach	5	Tell us about a particularly memorable or beautiful beach. What does that place look like? What was your impression and what did you see there? Tell us in detail what that particular beach looks like	특히 기억에 남거나 아름다웠던 바닷가에 대해서 이야기해 주십시오. 그곳은 어떻게 생겼습니까? 그곳에서 어떤 인상을 받았고 무엇을 보았습니까? 그 특별했던 해변이 어떻게 생겼는지 자세히 말씀해 주십시오.	Hãy kể về một bãi biển đặc biệt đáng nhớ hoặc đẹp. Nơi đó trông như thế nào? Bạn có ấn tượng gì và đã thấy những gì ở đó? Hãy mô tả chi tiết bãi biển đặc biệt đó trông như thế nào.	"- I really love going to the beach, and my favorite one is Da Nang Beach in central Vietnam. It is located along the eastern coast of the city and is very easy to access from the city center.
+- The beach is long and wide, with soft white sand and clear blue water. The waves are usually gentle, so it is safe for swimming. Along the beach, there are rows of palm trees and a long walking path where people can relax and enjoy the sea breeze.
+- When I go there, I usually wake up early to watch the sunrise, which is very beautiful and peaceful. I often take a walk along the shore, swim in the ocean, or sit on the sand and listen to the sound of the waves.
+- I like Da Nang Beach because it is clean, calm, and not too crowded. It gives me a relaxing feeling and helps me forget about stress from daily life."		https://luandai123.github.io/OpicTest/Beach_1.mp3	
+Beach	A memorable beach experience	6	There are a lot of fun and memorable things that often happen at the beach or pool. Pick a memorable thing that happened when you went to the beach and tell me about it. It doesn't matter if it's funny, surprising or scary. Tell me. Details what it is please let me know	바닷가나 해수욕장에서는 신나고 기억에 남은 많은 일이 종종 일어납니다. 바닷가에서 일어났던 일들 중 기억에 남는 일을 하나 골라 이야기해 주십시오. 우스웠거나 놀라웠거나 무서웠던 일도 좋습니다. 어떤 일이었는지 자세히 말씀해 주십시오.	Ở bãi biển hay khu tắm biển thường xảy ra nhiều chuyện thú vị và đáng nhớ. Hãy chọn một chuyện đáng nhớ đã xảy ra ở bãi biển và kể cho tôi nghe. Dù là chuyện buồn cười, bất ngờ hay đáng sợ cũng được. Hãy kể chi tiết chuyện đó là gì.	"- One very memorable thing that happened to me at the beach was both surprising and a little scary. It happened at Da Nang Beach when I went there with my friends during the summer.
+- That day, the weather was sunny and the sea looked very calm, so we decided to swim. At first, everything was fine, and we were enjoying the water and laughing together. However, after a while, the waves suddenly became stronger, and I was pulled farther away from the shore than I expected.
+- For a moment, I felt nervous because I realized I was getting tired and couldn’t stand on the sand anymore. Luckily, a lifeguard noticed the situation and quickly came over to help me get back to the shore.
+- After that, I rested on the beach and drank some water. Although it was a scary experience, it taught me to be more careful and respect the ocean. It’s something I will never forget."		https://luandai123.github.io/OpicTest/Beach_6.mp3	
+Domestic trip	Domestic travel preferences	1	You indicated in the survey that you like to travel domestically. Tell me about some of the places you like to travel to and why you like going there	설문지에 국내에서 휴가를 보내신다고 표시하셨습니다. 여행하고 싶은 장소와 그곳에 가는 것을 좋아하시는 이유에 대해 말씀해 주십시오.	Trong bảng khảo sát, bạn đã cho biết bạn đi nghỉ trong nước. Hãy kể về nơi bạn muốn đi và lý do bạn thích đến đó.	"- Yes, I really enjoy traveling domestically because it is convenient and allows me to explore different parts of my country.
+- One place I like to travel to is Da Nang. I enjoy going there because it has beautiful beaches, delicious seafood, and a relaxing atmosphere. I can enjoy the sea, visit famous attractions like Ba Na Hills, and try many local dishes.
+- Another place I like to visit is Da Lat. I like Da Lat because the weather is cool and pleasant, which is very different from other cities. I enjoy walking around the city, visiting flower gardens, and drinking coffee in small, cozy cafés.
+- Overall, I like traveling to these places because they help me relax, experience different lifestyles, and create memorable experiences without traveling too far."		https://luandai123.github.io/OpicTest/DomesticTrip_1.mp3	
+Domestic trip	Trip preparation activities	2	Can you tell me about the things you do in order to prepare for trips	여행을 준비하기 위해 하는 일들에 대해 말씀해 주시겠습니까?	Bạn có thể cho tôi biết những việc bạn làm để chuẩn bị cho các chuyến đi không?	"- Before going on a trip, I usually start by deciding on the destination and checking the weather forecast. This helps me know what kind of clothes and items I need to prepare.
+- Next, I plan my itinerary in advance. I look up popular attractions, local food, and transportation options so I can save time during the trip. I also book my accommodation and tickets early to avoid last-minute problems.
+- After that, I make a packing list. I prepare clothes, personal items, and important documents like my ID, tickets, and phone charger. I also make sure to bring some cash and download useful apps such as maps.
+- Finally, I inform my family or friends about my travel plans and double-check everything before leaving. Doing these things helps me feel relaxed and well-prepared for my trip."		https://luandai123.github.io/OpicTest/DomesticTrip_2.mp3	
+Domestic trip	Trips in your youth (past)	3	Tell me about some of the trips that you took in your youth. Where did you go? Who did you go with? And what did you do or see during those early trips	당신이 젊었을 때 갔던 여행에 대해 말해주세요. 어디로 갔나요? 누구 랑 갔는데? 그리고 초기 여행 동안 무엇을 했고 무엇을 보았나요?	Hãy kể về một chuyến đi bạn đã thực hiện khi còn trẻ. Bạn đã đi đâu? Bạn đã đi cùng ai? Và trong những chuyến đi thời trẻ đó, bạn đã làm gì và thấy gì?	"- When I was younger, I went on several memorable trips with my family and school.
+- One of my earliest trips was to Da Lat, and I went there with my parents during a school vacation. We visited flower gardens, lakes, and famous tourist spots. I remember enjoying the cool weather and trying local snacks.
+- I also went on a school trip to Nha Trang with my classmates. We went to the beach, swam in the ocean, and visited an aquarium. It was exciting to travel with friends and experience new places together.
+- During these early trips, I learned a lot about different cities and cultures. They helped me become more independent and sparked my interest in traveling, which I still enjoy today."		https://luandai123.github.io/OpicTest/DomesticTrip_3.mp3	
+Holiday	Holidays in your country	1	Tell me about holidays in your country. What kinds of holidays are there? Which holiday is the biggest? What do people do on that day? Is there any special food for the day	당신 나라의 휴일에 대해 말해 보세요. 어떤 종류의 휴일이 있나요? 어떤 명절이 가장 큰가요? 그날 사람들은 무엇을 합니까? 오늘의 특별한 음식이 있나요?	Hãy nói về các ngày lễ ở đất nước bạn. Có những loại ngày lễ nào? Ngày lễ nào lớn nhất? Mọi người làm gì vào ngày đó? Có món ăn đặc biệt nào cho ngày đó không?	"- In my country, Vietnam, there are many different kinds of holidays, including national holidays, traditional holidays. Some common ones are National Day, Hung Kings’ Festival, and Lunar New Year.
+- The biggest and most important holiday is Tet, or Lunar New Year. It usually takes place at the end of January or the beginning of February, depending on the lunar calendar.
+- On Tet, people usually return to their hometowns to spend time with their families. They clean and decorate their houses, visit relatives, give lucky money to children, and go to temples to pray for good luck and health.
+- There is also special food for Tet. Families prepare traditional dishes such as banh chung, which is a square sticky rice cake, along with pickled vegetables, boiled chicken, and various kinds of sweets.
+- Overall, Tet is a very meaningful holiday because it brings families together and marks a fresh start for the new year."		https://luandai123.github.io/OpicTest/Holiday_1.mp3	
+Holiday	Holiday and activities from start to finish	2	Just pick one of the holidays, and describe it to me in detail. What activities do you usually do with your family during the holiday? Please tell me about all the activities from the beginning to the end	휴일 중 하나를 선택하여 자세히 설명해주세요. 명절에는 가족과 함께 주로 어떤 활동을 하시나요? 처음부터 끝까지 모든 활동에 대해 알려주세요.	Hãy chọn một ngày lễ và mô tả chi tiết. Vào ngày lễ đó, bạn thường làm những hoạt động gì cùng gia đình? Hãy cho tôi biết tất cả các hoạt động từ đầu đến cuối.	"- I’d like to talk about Tet, which is the most important holiday in Vietnam. It usually takes place in late January or early February, and it is a time for family gatherings and new beginnings.
+- Before Tet starts, my family prepares by cleaning the house and decorating it with flowers like peach blossoms or apricot flowers. We also go shopping together to buy new clothes and food for the holiday.
+- On New Year’s Eve, we gather at home and have a big family dinner. At midnight, we watch fireworks on TV and welcome the new year together.
+- On the first day of Tet, we wake up early, wear new clothes, and visit our relatives to give New Year greetings. My parents give lucky money to children, and we spend time talking, eating, and enjoying traditional food.
+- During the rest of the holiday, we visit more relatives, go to temples to pray for good luck, and sometimes go out for short trips. From beginning to end, Tet is a meaningful time that helps my family feel closer and more connected."		https://luandai123.github.io/OpicTest/Holiday_2.mp3	
+House	Describing your home, rooms, and favorite room	1	I want to know where you live. Can you describe your home? What does it look like? How many rooms are there	어디에 사는지 알고 싶습니다. 집에 대해 묘사해 줄 수 있습니까? 어떻게 생겼습니까? 방이 몇 개입니까?	Tôi muốn biết bạn sống ở đâu. Bạn có thể mô tả ngôi nhà của mình không? Nó trông như thế nào? Có bao nhiêu phòng?	"- I live in an apartment in Thai Nguyen, and it is comfortable and well-organized.
+- When you enter my home, you first see the living room. It has a sofa, a coffee table, and a TV, and this is where my family usually spends time together in the evening.
+- Next to the living room is the kitchen. It is not very big, but it has everything we need, such as a refrigerator, and cabinets. My family cooks and eats most of our meals there.
+- My apartment has two bedrooms. One is my parents’ bedroom, and the other one is mine. My bedroom is my favorite room because it is quiet and cozy. It has a bed, a desk, a bookshelf, and a window that brings in a lot of natural light.
+- Overall, my home feels warm and relaxing, and it is a place where I feel most comfortable."		https://luandai123.github.io/OpicTest/House_1.mp3	
+House	Describing your home, rooms, and favorite room	2	I want to know where you live. Tell us about each room in your home. Tell us about your favorite room. What does it look like	당신이 어디에 사는지 알고 싶습니다. 집에 있는 각각의 방들에 대해 말씀해 주십시오. 가장 좋아하는 방에 대해 말씀해 주십시오. 어떻게 생겼나요?	Tôi muốn biết bạn sống ở đâu. Hãy kể về từng phòng trong nhà bạn. Hãy kể về căn phòng bạn thích nhất. Nó trông như thế nào?	"- I live in an apartment in Thai Nguyen, and it is comfortable and well-organized.
+- When you enter my home, you first see the living room. It has a sofa, a coffee table, and a TV, and this is where my family usually spends time together in the evening.
+- Next to the living room is the kitchen. It is not very big, but it has everything we need, such as  a refrigerator, and cabinets. My family cooks and eats most of our meals there.
+- My apartment has two bedrooms. One is my parents’ bedroom, and the other one is mine. My bedroom is my favorite room because it is quiet and cozy. It has a bed, a desk, a bookshelf, and a window that brings in a lot of natural light.
+- Overall, my home feels warm and relaxing, and it is a place where I feel most comfortable."		https://luandai123.github.io/OpicTest/House_2.mp3	
+House	Noisy neighbor (problem → solution)	3	You have a noisy neighbor who disturbs your peace. How would you handle this situation	당신의 조용함을 방해하는 시끄러운 이웃이 있습니다. 이 상황을 어떻게 처리하겠습니까?	Bạn có một người hàng xóm ồn ào làm phiền sự yên tĩnh của bạn. Bạn sẽ xử lý tình huống này như thế nào?	"- If I had a noisy neighbor who disturbed my peace, I would try to handle the situation calmly and politely.
+- First, I would talk to the neighbor in person and explain the problem in a friendly way. I would let them know when the noise usually happens and how it affects me, such as disturbing my sleep or work.
+- If the noise continued, I would try to find a compromise, like asking them to lower the volume during late hours or agree on quiet times.
+- If talking to them didn’t work, I would contact the building management or landlord and report the issue. As a last resort, I might use earplugs or noise-canceling headphones.
+- Overall, I believe communication and patience are the best ways to solve this kind of problem without causing conflict."		https://luandai123.github.io/OpicTest/House_5.mp3	
+House	Living alone vs. with roommates	4	Do you think living alone in an apartment is easier or harder compared to living with roommates? Why	룸메이트와 함께 사는 것보다 아파트에서 혼자 사는 것이 더 쉽거나 더 어렵다고 생각하십니까? 이유는 무엇인가요?	Bạn nghĩ sống một mình trong căn hộ dễ hơn hay khó hơn so với sống cùng bạn cùng phòng? Lý do là gì?	"- I think living alone in an apartment is easier in some ways, but harder in others, compared to living with roommates.
+- Living alone is easier because I have more privacy and freedom. I can make my own schedule, keep the place as clean as I want, and enjoy peace and quiet without worrying about disturbing others. It’s also less stressful because there are no conflicts over chores or personal space.
+- However, living alone can be harder because it is more expensive. I have to pay all the rent, utilities, and other costs by myself. It can also feel lonely at times, especially after a long day.
+- Overall, I think living alone is easier if you value independence and quiet, but living with roommates can be better if you want to save money and enjoy more social interaction."		https://luandai123.github.io/OpicTest/House_7.mp3	
+House	Comparing childhood home and current home	5	Describe the house you lived in as a child. How is it different from the house you're in now? What are the similarities	어릴 때 살았던 집을 설명해 주십시오. 현재 살고 있는 집과 어떻게 달랐습니까? 어떤 점이 비슷합니까?	Hãy mô tả ngôi nhà bạn đã sống khi còn nhỏ. Nó khác với ngôi nhà hiện tại của bạn như thế nào? Có điểm gì giống nhau?	"- When I was a child, I lived in a small house with my family in a quiet neighborhood. It was a simple one-story house with a small yard in front where I used to play with my friends. The house had a living room, a kitchen, and two bedrooms, and it felt very warm and cozy.
+- Now, I live in an apartment, which is quite different from my childhood home. My current place is on a higher floor and doesn’t have a yard. It’s more modern, with newer furniture and a more compact layout. Also, the apartment feels more convenient because it’s closer to the city center.
+- However, there are also some similarities between the two homes. Both places are comfortable and well-organized, and they are spaces where my family can relax and spend time together. Most importantly, both homes feel safe and familiar to me, which makes them special in their own way."		https://luandai123.github.io/OpicTest/House_3.mp3	
+House	Memories of childhood home and surrounding area	6	Tell us about where you lived as a child and the surrounding area. What do you remember about that place? Describe your childhood home in detail	어렸을 때 살던 곳과 주변 지역에 대해 이야기해 주십시오. 그 장소에 대해 무엇을 기억합니까? 어린 시절의 집을 자세히 묘사하십시오.	Hãy kể về nơi bạn từng sống khi còn nhỏ và khu vực xung quanh đó. Bạn nhớ gì về nơi đó? Hãy mô tả chi tiết ngôi nhà thời thơ ấu của bạn.	"- When I was a child, I lived in a small house in a quiet neighborhood, and it’s a place I still remember very clearly. The area was mostly residential, with narrow streets, small shops, and many friendly neighbors. There were lots of trees around, so the neighborhood felt calm and safe, and children often played outside together.
+- My childhood home was a one-story house with a simple design. In front of the house, there was a small yard where my family kept some plants, and I often played there after school. Inside, the house had a living room, a kitchen, and two bedrooms. The living room was the center of the house, where my family gathered to watch TV and talk in the evenings.
+- I remember the house feeling warm and cozy, even though it wasn’t very big. That place brings back many happy memories of my childhood and makes me feel nostalgic whenever I think about it."		https://luandai123.github.io/OpicTest/House_6.mp3	
+House	Making an apartment feel like home	7	After living alone in an apartment for some time, what changes have you made to make it feel more like home	한동안 아파트에서 혼자 살고 난 후, 집처럼 느껴지도록 어떤 변화를 가져왔나요?	Sau một thời gian sống một mình trong căn hộ, bạn đã thực hiện những thay đổi nào để nó cảm thấy giống như nhà của mình?	"- After living alone in my apartment for some time, I’ve made several changes to make it feel more like home.
+- First, I added personal decorations such as photos of my family and friends, small plants, and some artwork. These items make the space feel warmer and more personal.
+- I also rearranged the furniture to create a more comfortable and practical layout. For example, I set up a cozy corner with a chair and a lamp where I can relax or read.
+- In addition, I invested in soft lighting, curtains, and cushions to make the apartment feel more comfortable and relaxing. I also keep the place clean and organized, which helps me feel calm and settled.
+- Overall, these small changes have made my apartment feel cozy, familiar, and truly like home."		https://luandai123.github.io/OpicTest/House_4.mp3	
+No work experience	Previous work experience	1	Do you have any previous work experience? If yes, what did you do	이전에 일한 경험이 있나요? 있다면 무슨 일을 했나요?	Bạn đã từng có kinh nghiệm làm việc trước đây chưa? Nếu có, bạn đã làm công việc gì?	"- I don’t have formal work experience yet, but I have gained a lot of experience through personal projects and responsibilities at home.
+- For example, I have organized and managed my own study schedule and small personal projects, like learning a new language and improving my computer skills. I had to plan carefully, stay disciplined, and meet my own goals, which taught me responsibility and time management.
+- I have also helped my family with tasks like budgeting, shopping, and organizing events, which gave me practical experience in planning and teamwork.
+- Even without a formal job, these experiences have helped me develop important skills that I think will be useful in a professional environment, such as organization, problem-solving, and communication."		https://luandai123.github.io/OpicTest/NoWorkExperience_1.mp3	
+No work experience	Time management without work experience	2	How do you effectively manage your time without any work experience	일한 경험이 없다면 어떻게 시간을 효과적으로 관리합니까?	Nếu chưa có kinh nghiệm làm việc, bạn quản lý thời gian hiệu quả như thế nào?	"- Even though I don’t have formal work experience, I have learned to manage my time effectively through school, personal projects, and daily responsibilities.
+- I usually start by making a schedule or to-do list for the day or week. This helps me know what tasks are most important and when I should complete them.
+- I also set specific goals for each task, like finishing homework before a certain time or practicing a skill for a set number of hours. This keeps me focused and avoids wasting time.
+- Sometimes, I use techniques like breaking big tasks into smaller steps or setting reminders on my phone. These methods help me stay organized and make sure I finish everything on time.
+- Overall, even without a job, I have learned to plan carefully, stay disciplined, and prioritize tasks, which helps me use my time efficiently."		https://luandai123.github.io/OpicTest/NoWorkExperience_2.mp3	
+No work experience	Preparing for an interview without work experience	3	How do you prepare for an interview with no work experience	일한 경험이 없을 때 인터뷰 준비를 어떻게 하나요?	Khi chưa có kinh nghiệm làm việc, bạn chuẩn bị cho buổi phỏng vấn như thế nào?	"- Even though I don’t have formal work experience, I still prepare carefully for interviews.
+- First, I research the company and learn about its products, services, and values. This helps me understand what the company is looking for and how I can contribute.
+- Next, I review my own skills and experiences, like school projects, volunteer work, or personal projects, and think about how they relate to the position. I also prepare examples to show my responsibility, teamwork, and problem-solving skills.
+- I usually practice answering common interview questions with a friend or in front of a mirror. This helps me speak clearly, confidently, and naturally.
+- Finally, I make sure to dress appropriately, arrive on time, and bring necessary documents. Preparing this way helps me feel confident, even without previous work experience."		https://luandai123.github.io/OpicTest/NoWorkExperience_3.mp3	
+Life after school _Graduation	Adjusting to life after school	1	How did you adjust to life outside of school	학교 밖 생활에 어떻게 적응했습니까?	Bạn đã thích nghi với cuộc sống ngoài trường học như thế nào?	"After finishing school, adjusting to life outside of a structured environment was a bit challenging at first.
+I focused on creating a daily routine to manage my time effectively.
+I also tried to gain practical experience through personal projects and volunteering, which helped me develop discipline and teamwork skills.
+By gradually taking responsibility for my own schedule and decisions, I was able to adapt to life outside of school smoothly."		https://luandai123.github.io/OpicTest/LifeAfterSchool _Graduation_1.mp3	
+Life after school _Graduation	Major changes experienced after graduation	2	What were some of the biggest changes you experienced after graduating	졸업 후 가장 큰 변화는 무엇입니까?	Thay đổi lớn nhất sau khi tốt nghiệp là gì?	"One of the biggest changes after graduating was gaining more independence.
+I had to manage my finances, plan my own activities, and make important decisions without guidance from teachers or a structured timetable.
+Another change was the need to be more self-motivated and responsible, as no one reminded me to study or complete tasks.
+Finally, I also experienced a shift in social life, because I had to build my own network and spend more time managing personal priorities."		https://luandai123.github.io/OpicTest/LifeAfterSchool _Graduation_2.mp3	
+Life after school _Graduation	Advice for someone who left school	3	What advice would you give to someone who just left school	방금 학교를 떠난 사람에게 어떤 조언을 해주고 싶습니까?	Bạn muốn đưa ra lời khuyên gì cho người vừa mới rời trường học?			https://luandai123.github.io/OpicTest/LifeAfterSchool _Graduation_3.mp3	
+Life after school _Graduation	Benefits of no school schedule	4	What are some of the benefits of not having a structured school schedule anymore	더 이상 학교에 다니지 않으면 어떤 좋은 점이 있습니까?	Việc không còn đi học nữa có những điểm tốt nào?			https://luandai123.github.io/OpicTest/LifeAfterSchool _Graduation_4.mp3	
+Life after school _Graduation	Education preparing for life	5	Looking back, how do you think your education prepared you for life after graduation	돌이켜보면, 당신의 교육 기초가 졸업 후의 삶에 어떻게 도움이 되었다고 생각합니까?	Nhìn lại, bạn nghĩ nền tảng giáo dục của mình đã giúp ích như thế nào cho cuộc sống sau khi tốt nghiệp?			https://luandai123.github.io/OpicTest/LifeAfterSchool _Graduation_5.mp3	
+Life after school _Graduation	Education preparing for life	6	What skills did you develop while in school that helped you in your career	학교 다닐 때 어떤 능력을 개발하여 경력에 도움이 되었나요?	Khi còn đi học, bạn đã phát triển những kỹ năng nào giúp ích cho sự nghiệp của mình?			https://luandai123.github.io/OpicTest/LifeAfterSchool _Graduation_6.mp3	
+Life after school _Graduation	Motivation & continuous learning	7	What are some of the ways you stay motivated and continue learning now that you're no longer in school	더 이상 학교에 다니지 않는 지금, 동기를 유지하고 계속 학습하는 방법은 무엇인가요?	Bây giờ khi không còn đi học nữa, làm thế nào để bạn duy trì động lực và tiếp tục học hỏi?			https://luandai123.github.io/OpicTest/LifeAfterSchool _Graduation_7.mp3	
+Do not participate in sports	Not participating in sports (reasons)	1	Can you give me an example of a situation where you decided not to participate in a sport or physical activity for personal reasons	개인적인 이유로 스포츠나 신체 활동에 참여하지 않기로 결정한 상황의 예를 들어줄 수 있습니까?	Bạn có thể cho tôi một ví dụ về tình huống mà bạn quyết định không tham gia thể thao hoặc hoạt động thể chất vì lý do cá nhân không?			https://luandai123.github.io/OpicTest/DoNotParticipateInSports_1.mp3	
+Do not participate in sports	Free time without sports	2	How do you usually spend your free time when you're not involved in sports or physical activities	스포츠나 신체 활동을 하지 않을 때에는 주로 여가 시간을 어떻게 보내십니까?	Khi không tham gia thể thao hoặc hoạt động thể chất, bạn thường dành thời gian rảnh của mình như thế nào?			https://luandai123.github.io/OpicTest/DoNotParticipateInSports_2.mp3	
+Do not participate in sports	Free time without sports	3	What are some other activities you enjoy doing instead of playing sports or exercising	스포츠나 운동 외에 즐기는 다른 활동은 무엇입니까?	Ngoài thể thao hoặc tập luyện, bạn còn thích những hoạt động nào khác?			https://luandai123.github.io/OpicTest/DoNotParticipateInSports_3.mp3	
+Do not participate in sports	Encouraging someone else	4	Have you ever encouraged someone else to get involved in sports or physical activities? What was the outcome	다른 사람에게 스포츠나 신체 활동에 참여하도록 권유한 적이 있습니까? 결과는 어땠습니까?	Bạn đã từng khuyến khích người khác tham gia thể thao hoặc hoạt động thể chất chưa? Kết quả như thế nào?			https://luandai123.github.io/OpicTest/DoNotParticipateInSports_4.mp3	
+Do not participate in sports	Health effects of avoiding sports	5	In your opinion, can avoiding sports or physical activities have negative effects on your overall health? Why or why not	스포츠나 신체 활동을 피하는 것이 전반적인 건강에 부정적인 영향을 미칠 수 있다고 생각하나요? 이유는 무엇입니까?	Bạn có nghĩ rằng việc tránh thể thao hoặc hoạt động thể chất có thể ảnh hưởng tiêu cực đến sức khỏe tổng thể không? Lý do là gì?			https://luandai123.github.io/OpicTest/DoNotParticipateInSports_5.mp3	
+Cultural, Human rights, Social media	Cultural	1	What is your view on cultural diversity and its impact on society	문화적 다양성과 그것이 사회에 미치는 영향에 대한 귀하의 견해는 무엇입니까?	Quan điểm của bạn về sự đa dạng văn hóa và tác động của nó đối với xã hội là gì?	"- In my opinion, cultural diversity is good for society.
+- People from different cultures have different ideas, food, clothes, and traditions. This makes society more colorful and interesting.
+- Cultural diversity helps people learn from each other. It also helps people become more open and creative.
+- Sometimes, cultural diversity can cause misunderstandings because people think differently. However, if people communicate, listen, and respect each other, these problems can be solved. 
+- In the end, cultural diversity helps society grow and become stronger.
+"		https://luandai123.github.io/OpicTest/Cultural_HumanRights_SocialMedia_1.wav	
+Cultural, Human rights, Social media	Human rights	2	What are the responsibilities of corporations towards human rights	기업은 인권에 대해 어떠한 책임을 가지고 있을까요?	Các doanh nghiệp có trách nhiệm gì đối với nhân quyền?	"- Corporations have responsibilities for human rights.
+- First, they should treat workers kindly. They should pay enough money and keep workers safe at work.
+- Second, companies should respect all people. They should not use child workers and should not force people to work. Everyone should be treated the same.
+- Third, companies should be honest with customers. They should sell safe products and not lie.
+- Finally, companies should care about the community and the environment. If corporations respect human rights, life will be better for everyone."		https://luandai123.github.io/OpicTest/Cultural_HumanRights_SocialMedia_2.wav	
+Cultural, Human rights, Social media	Social media	3	I wonder that how you first became interested in social media. Who taught you how to use social media? How did you feel when you first started using social media	처음 어떻게 Social Network에 관심을 가지게 됐는지 궁금합니다. 누가 Social Network 사용하는 방법을 알려 주었습니까? Social Network를 처음 사용했을 때 어떤 기분이었습니까?	Tôi tò mò muốn biết bạn đã bắt đầu quan tâm đến mạng xã hội như thế nào. Ai đã chỉ cho bạn cách sử dụng mạng xã hội? Bạn cảm thấy thế nào khi lần đầu tiên sử dụng mạng xã hội?	"- I first became interested in social media when I was in school. Many of my friends were using social media every day, so I became interested in it.
+- I wanted to know how they shared photos, talked with friends, and followed famous people.
+- A close friend taught me how to use social media. They showed me how to create an account, add friends, and use basic functions.	
+- At first, I felt very excited and interested because everything was new. I enjoyed chatting with friends and seeing photos and posts.
+- However, I also felt a little confused at the beginning."		https://luandai123.github.io/OpicTest/Cultural_HumanRights_SocialMedia_3.wav	
+Role-Play _Trip	Đến quầy lễ tân, hỏi về loại phòng bạn muốn.	11.1	I'd like to give you a situation and ask you to act it out. You have arrived in a new city and you're trying to find a hotel for the night. Go to the reception desk of the hotel. Describe the room you want and ask three or four questions to get information about what is available	나는 당신에게 상황을 제시하고 그것을 실행해 보라고 요청하고 싶습니다. 당신은 새로운 도시에 도착하여 하룻밤 묵을 호텔을 찾고 있습니다. 호텔 프런트 데스크로 가십시오. 원하는 룸에 대해 설명하고 이용 가능한 룸에 대한 정보를 얻기 위해 서너 가지 질문을 하십시오.	Tôi muốn đưa ra cho bạn một tình huống và yêu cầu bạn thực hiện nó. Bạn vừa đến một thành phố mới và đang tìm khách sạn để nghỉ đêm. Hãy đến quầy lễ tân khách sạn. Hãy mô tả loại phòng bạn muốn và đặt ba bốn câu hỏi để biết thông tin về các phòng còn trống.	"Hi, I’m here because I need some information.
+I'm looking for a room with one bed for tonight.
+Could you tell me if you have any rooms available?
+How much is the room per night?
+And does the room include Wi-Fi and breakfast?
+Thank you very much."		https://luandai123.github.io/OpicTest/Role-Play _Trip_11_1.mp3	
+Role-Play _Trip	Đến quầy bán vé hỏi mua vé tàu đi thăm bạn.	11.2	I'd like to give you a situation and ask you to act it out. You need to buy a train ticket to go visit your friend this weekend. Go to the ticket counter at the train station and ask three or four questions to get the information you need to book a ticket	나는 당신에게 상황을 제시하고 그것을 실행해 보라고 요청하고 싶습니다. 이번 주말에 친구를 방문하려면 기차표를 사야 해요. 기차역의 티켓 카운터로 가서 3~4가지 질문을 통해 티켓 예약에 필요한 정보를 얻으세요.	Tôi muốn đưa ra cho bạn một tình huống và yêu cầu bạn thực hiện nó. Bạn cần mua vé tàu để đến thăm bạn mình vào cuối tuần này. Hãy đến quầy vé ở nhà ga và đặt 3-4 câu hỏi để lấy thông tin cần thiết cho việc đặt vé.	"Hi, I’m here because I need some information.
+I want to buy a train ticket to visit my friend this weekend.
+What time is the next train?
+How much is the ticket?
+And is there a return ticket option?
+Thank you for your help."		https://luandai123.github.io/OpicTest/Role-Play _Trip_11_2.mp3	
+Role-Play _Trip	Gọi cho công ty du lịch để lên kế hoạch chuyến đi.	11.3	I'd like to give you a situation and ask you to act it out. You are planning on going on a trip. Call the travel agency and ask three of four questions to get the information that you need to plan your trip	상황을 드릴 테니 연기를 해 보세요. 당신은 휴가를 보내려고 계획하고 있습니다. 여행사에 전화를 걸어 필요한 여행 정보에 대해 서너 가지 질문을 해 주세요.	Tôi sẽ đưa ra tình huống, hãy diễn nó. Bạn đang lên kế hoạch cho kỳ nghỉ. Hãy gọi điện cho công ty du lịch và đặt ba bốn câu hỏi về thông tin du lịch cần thiết.	"Hi, I’m calling because I need some information.
+I’m planning a trip and I have a few questions.
+What destinations do you recommend?
+How long is the trip?
+And what is included in the package?
+Thank you very much."		https://luandai123.github.io/OpicTest/Role-Play _Trip_11_3.mp3	
+Role-Play _Trip	Gọi điện cho bạn hỏi bạn về địa lý đất nước họ và kế hoạch du lịch.	11.4	I'd like to give you a situation and ask you to act it out. You are planning on going on a trip to a country where your friend lives. Call your friend and ask about the geography there. And then, ask two or three more questions regarding your travel plans	나는 당신에게 상황을 제시하고 그것을 실행해 보라고 요청하고 싶습니다. 당신은 친구가 살고 있는 나라로 여행을 갈 계획입니다. 친구에게 전화해서 그곳의 지형에 대해 물어보십시오. 그리고 여행 계획에 관해 두세 가지 질문을 더 해 보십시오.	Tôi muốn đưa ra cho bạn một tình huống và yêu cầu bạn thực hiện nó. Bạn đang lên kế hoạch đi du lịch đến đất nước nơi bạn của bạn đang sống. Hãy gọi điện cho bạn của bạn và hỏi về địa hình nơi đó. Sau đó, hãy hỏi thêm hai ba câu hỏi nữa về kế hoạch du lịch của bạn.	"Hi, I’m calling because I need some information.
+I’m planning to visit your country soon.
+What is the geography like there?
+How is the weather during this season?
+And what places should I visit?
+Thanks a lot."		https://luandai123.github.io/OpicTest/Role-Play _Trip_11_4.mp3	
+Role-Play _Trip	Gọi điện báo cho bạn biết khách sạn hết phòng và đề xuất phương án.	12.1	I'm sorry, but there is a problem I need you to resolve. You've learned that there are no rooms available in this hotel. Call your travel companions to let them know about the situation. Leave a message to describe the situation and propose alternative solutions to the problem	죄송합니다. 해결해야 할 문제가 있습니다. 이 호텔에 남은 객실이 없다는 것을 알게 되었습니다. 여행 동행자에게 전화해서 상황을 알려 주십시오. 상황을 설명하는 메시지를 남기고 문제에 대한 대안을 제시하십시오.	Xin lỗi, nhưng có một vấn đề cần giải quyết. Bạn vừa biết được rằng khách sạn này không còn phòng trống. Hãy gọi điện cho bạn đồng hành để cho họ biết về tình huống này. Hãy để lại lời nhắn mô tả tình huống và đề xuất các giải pháp thay thế cho vấn đề.	"Hi, this is Nam. I’m calling because there’s a problem I need to explain.
+We planned to stay at this hotel tonight, but they just told me there are no rooms available.
+Because of this, we don’t have a place to stay right now.
+To solve this problem, I have a few suggestions.
+First, we could look for another nearby hotel.
+Second, we could stay at a guesthouse or a rental apartment instead.
+If necessary, we could also stay outside the city and travel in tomorrow.
+Please let me know what you think."		https://luandai123.github.io/OpicTest/Role-Play _Trip_12_1.mp3	
+Role-Play _Trip	Gọi điện cho bạn báo cho bạn mình bị lỡ chuyến tàu và đề xuất phương án thay thế	12.2	I'm sorry, but there is a problem I need you to resolve. When you get to the train station, you miss your train and will be late to meet your friend, Call your friend, explain your situation and offer some alternatives	죄송합니다. 해결해야 할 문제가 있습니다. 기차역에 도착했는데 기차를 놓쳐서 친구를 만나기로 한 시간에 늦게 되었습니다. 친구에게 전화해서 상황을 설명하고 몇 가지 대안을 제시하십시오.	Xin lỗi, nhưng có một vấn đề cần giải quyết. Khi đến nhà ga, bạn lỡ chuyến tàu và sẽ đến trễ giờ hẹn gặp bạn của mình. Hãy gọi điện cho bạn của bạn, giải thích tình huống và đưa ra một vài phương án thay thế.	"Hi, this is Nam. I’m calling because there’s a problem I need to explain.
+I was supposed to arrive on time, but I missed the train.
+Because of this, I’ll be late meeting you.
+I’m really sorry about this situation.
+To solve this problem, we have a few options.
+First, I can take the next train and meet you later.
+Second, we could change our meeting place.
+Or we could meet tomorrow instead.
+Please let me know what works best for you."		https://luandai123.github.io/OpicTest/Role-Play _Trip_12_2.mp3	
+Role-Play _Trip	Gọi điện cho bạn báo bạn chuyến du lịch không còn và đề xuất phương án.	12.3	I'm sorry, there is a problem I need you to resolve. You got a phone call from a travel agent and you have been informed that there is a problem with the trip that you wanted to go on and it is not available now. Call your friend, explain the situation and then give two to three alternatives	미안합니다. 제가 드리는 문제를 해결해 주십시오. 여행사로부터 전화를 받았는데, 가려고 했던 여행에 문제가 생겨서 지금은 이용할 수 없다고 합니다. 친구에게 전화해서 상황을 설명하고 두세 가지 대안을 제시하십시오.	Xin lỗi, nhưng tôi cần bạn giải quyết một vấn đề. Bạn nhận được cuộc gọi từ công ty du lịch và được thông báo rằng chuyến đi bạn muốn thực hiện đã gặp vấn đề và hiện không thể thực hiện được. Hãy gọi điện cho bạn của bạn, giải thích tình huống và đưa ra hai ba phương án thay thế.	"Hi, this is Nam. I’m calling because there’s a problem I need to explain.
+We planned to go on that trip, but the travel agent just informed me that the trip is no longer available.
+Because of this, our original plan can’t continue.
+I’m really sorry about that.
+To solve this, we could choose a different destination.
+We could also change the travel dates.
+Or we could plan a shorter local trip instead.
+Please let me know what you think."		https://luandai123.github.io/OpicTest/Role-Play _Trip_12_3.mp3	
+Role-Play _Trip	Gọi điện cho bạn báo bạn rằng không thể đi du lịch và đưa ra giải pháp.	12.4	I'm sorry, but there is a problem I need you to resolve. You cannot go on the trip because of some reason. Call your friend and explain the situation. Give two to three alternatives	죄송합니다. 해결해야 할 문제가 있습니다. 어떤 이유로 인해 당신은 여행을 갈 수 없게 되었습니다. 친구에게 전화해서 상황을 설명하십시오. 두세 가지 대안을 제시하십시오.	Xin lỗi, nhưng có một vấn đề cần giải quyết. Vì một lý do nào đó, bạn không thể đi du lịch được. Hãy gọi điện cho bạn của bạn và giải thích tình huống. Hãy đưa ra hai ba phương án thay thế.	"Hi, this is Nam. I’m calling because there’s a problem I need to explain.
+I planned to go on the trip with you, but something urgent came up and I can’t go anymore.
+Because of this, I won’t be able to join you.
+I’m really sorry about this.
+As alternatives, we could reschedule the trip.
+You could go without me.
+Or we could plan another trip later.
+Please let me know what you prefer."		https://luandai123.github.io/OpicTest/Role-Play _Trip_12_4.mp3	
+Role-Play _Trip	Gọi điện cho lễ tân phàn nàn phòng khách sạn bẩn/nhỏ và đề xuất giải pháp.	12.5	I'm sorry, but there is a problem I need you to resolve. When you get to your hotel room, it is very small and not clean at. Call the front desk and describe what you have found in detail. Then make some suggestions as to how you can resolve the situation	죄송합니다. 해결해야 할 문제가 있습니다. 호텔 객실에 도착했는데 방이 너무 작고 깨끗하지 않습니다. 프런트 데스크에 전화해서 발견한 것을 자세히 설명하십시오. 그리고 상황을 해결할 수 있는 방법에 대해 몇 가지 제안을 하십시오.	Xin lỗi, nhưng có một vấn đề cần giải quyết. Khi đến phòng khách sạn, bạn thấy phòng rất nhỏ và không sạch sẽ. Hãy gọi điện cho quầy lễ tân và mô tả chi tiết những gì bạn phát hiện được. Sau đó, hãy đưa ra một vài đề xuất về cách giải quyết tình huống này.	"Hello, this is Nam . I’m calling because there’s a problem.
+I just checked into my room, but  it’s very small and not clean.
+I saw dust on the floor, and the bathroom was not clean.
+I’m sorry to complain, but this makes it uncomfortable to stay.
+To solve this, I’d like to suggest a few options.
+Could you clean the room again?
+Or could I change to another room?
+If possible, I would like an upgrade.
+Thank you for your help."		https://luandai123.github.io/OpicTest/Role-Play _Trip_12_5.mp3	
+Role-Play _Trip	Gọi cho bạn báo chuyến du lịch bị hoãn và đưa ra lựa chọn thay thế.	12.6	I apologize. Please solve my problem. You've planned a vacation with a friend, but the travel agency called to inform you that your departure date has been delayed. Call a friend, explain the situation, and offer two or three alternative options	미안합니다. 제가 드리는 문제를 해결해 주십시오. 당신은 친구와 함께 패키지 여행을 계획했는데, 여행사에서 출발 날짜가 지연됐다고 전화가 왔습니다. 친구에게 전화를 걸어 상황을 설명하고 두세 가지 대안을 제시하십시오.	Xin lỗi, nhưng tôi cần bạn giải quyết một vấn đề. Bạn đã lên kế hoạch cho một chuyến du lịch trọn gói cùng bạn của mình, nhưng công ty du lịch gọi điện báo rằng ngày khởi hành bị hoãn lại. Hãy gọi điện cho bạn của bạn, giải thích tình huống và đưa ra hai ba phương án thay thế.	"Hi, this is Nam. I’m calling because there’s a problem with our vacation plan.
+The travel agency informed me that our departure date has been delayed.
+Because of this, our schedule will change.
+I’m really sorry about this.
+To solve this, I’d like to suggest a few options.
+We could adjust our travel dates.
+We could choose a different flight.
+Or we could shorten the trip.
+Let me know what works best for you."		https://luandai123.github.io/OpicTest/Role-Play _Trip_12_6.mp3	
+Role-Play _Trip	Gọi điện cho đại lý du lịch báo không thể đi với vé không hoàn tiền và tìm cách giải quyết.	12.7	I'm sorry, but there is a problem I need you to resolve. You have booked a non-refundable plane ticket. However, something has happened that prevents you from going next week. Call the travel agent, explain what has happened, and offer two or three alternatives to resolve the problem	죄송합니다. 해결해야 할 문제가 있습니다. 당신은 환불이 불가능한 비행기 티켓을 예약했습니다. 그런데 어떤 일이 생겨서 다음 주에 갈 수 없게 되었습니다. 여행사 직원에게 전화해서 무슨 일이 있었는지 설명하고 문제를 해결하기 위한 두세 가지 대안을 제시하십시오.	Xin lỗi, nhưng có một vấn đề cần giải quyết. Bạn đã đặt một vé máy bay không thể hoàn tiền. Tuy nhiên, có chuyện xảy ra khiến bạn không thể đi vào tuần tới. Hãy gọi điện cho nhân viên đại lý du lịch, giải thích chuyện đã xảy ra, và đưa ra hai ba phương án thay thế để giải quyết vấn đề.	"Hello, this is Nam. I’m calling because there’s a problem with my ticket.
+I booked a non-refundable ticket, but something unexpected happened and I can’t travel next week.
+I understand the policy, but I’d like to ask about possible solutions.
+Could I change the travel date?
+Could I receive travel credit?
+Or could I transfer the ticket to another person?
+Thank you for your help."		https://luandai123.github.io/OpicTest/Role-Play _Trip_12_7.mp3	
+Role-Play _Trip	Gọi cho bạn báo thời tiết xấu và đề xuất thay thế	12.8	I apologize. Please solve my problem. Bad weather on the day you plan to go to the beach. Call your friend and explain the situation. Then, suggest some other times when you could travel together in the near future	미안합니다. 제가 드리는 문제를 해결해 주십시오. 해변 여행을 가는 당일에 날씨가 좋지 않습니다. 친구에게 전화해서 상황을 설명하십시오. 그리고 나서, 가까운 미래에 언제 여행을 갈 수 있는지 몇 가지 제안을 하십시오.	Xin lỗi, nhưng tôi cần bạn giải quyết một vấn đề. Vào đúng ngày đi biển thì thời tiết lại không tốt. Hãy gọi điện cho bạn của bạn và giải thích tình huống. Sau đó, hãy đưa ra một vài gợi ý về thời điểm có thể đi trong tương lai gần.			https://luandai123.github.io/OpicTest/Role-Play _Trip_12_8.mp3	
+Role-Play _Trip	Kể một lần kế hoạch du lịch không như ý và cách giải quyết.	13.1	That's the end of the situation. Think about a time when your travel plans did not work out as expected. What happened? Tell me all about the circumstances, what you and the others did, and how the situation was finally resolved	그게 상황의 끝입니다. 여행 계획이 예상대로 되지 않았던 때를 떠올려 보십시오. 무슨 일이 있었습니까? 그 상황과 당신과 다른 사람들이 했던 일, 그리고 그 상황이 결국 어떻게 해결되었는지 모두 말씀해 주십시오.	Đó là kết thúc tình huống. Hãy nhớ lại một lần kế hoạch du lịch của bạn không diễn ra như mong đợi. Chuyện gì đã xảy ra? Hãy kể cho tôi nghe tất cả về hoàn cảnh đó, những gì bạn và những người khác đã làm, và tình huống đó cuối cùng đã được giải quyết như thế nào.	"I remember a time when my travel plan did not go well.
+Last year, I planned a short trip with my friends to another city.
+However, on the day we left, there was heavy rain and strong wind.
+Our train was delayed for many hours, so our schedule was changed.
+To fix the problem, we called the hotel and explained the situation. 
+We also changed our plan and visited indoor places instead.
+In the end, the trip was still fun.
+This experience taught me to be flexible when traveling."		https://luandai123.github.io/OpicTest/Role-Play _Trip_13_1.mp3	
+Role-Play _Trip	Kể lý do lỡ chuyến (giao thông) và cách đến được nơi.	13.2	That's the end of the situation. Have you ever traveled somewhere but missed a bus, a train or a plane? Tell me about an experience you have had when you had difficulty getting to your destination. Start by telling me where you were going and why that happened. Then, tell me what you had to do to finally get to your destination	그게 상황의 끝입니다. 어딘가로 이동하다가 버스, 기차, 또는 비행기를 놓친 적이 있습니까? 목적지에 도착하는 데 어려움을 겪었던 경험에 대해 말씀해 주십시오. 먼저 어디로 가고 있었는지와 그 일이 왜 일어났는지 말씀해 주십시오. 그런 다음, 결국 목적지에 도착하기 위해 무엇을 해야 했는지 말씀해 주십시오.	Đó là kết thúc tình huống. Bạn đã từng di chuyển đến đâu đó nhưng bị lỡ xe buýt, tàu hoặc máy bay chưa? Hãy kể cho tôi nghe về trải nghiệm khi bạn gặp khó khăn để đến được điểm đến của mình. Trước tiên, hãy cho tôi biết bạn đang đi đâu và tại sao chuyện đó xảy ra. Sau đó, hãy cho tôi biết bạn đã phải làm gì để cuối cùng đến được điểm đến của mình.	"Yes, I have missed transportation before.
+It happened when I was going to visit my friend in another city.
+I planned to take an early train, but there was heavy traffic on the way to the station.
+I arrived late and missed the train.
+I felt very nervous because my friend was waiting for me.
+To solve the problem, I checked the schedule and bought a ticket for the next train.
+I also called my friend and explained what happened.
+In the end, I arrived late, but everything was okay."		https://luandai123.github.io/OpicTest/Role-Play _Trip_13_2.mp3	
+Role-Play _Trip	Kể chi tiết trải nghiệm bị hủy chuyến bay.	13.3	That's the end of the situation. Have you ever had to deal with problems caused by canceled flights? Describe that experience in detail. Tell me when and where this took place and what exactly happened. Talk about that story from beginning to end	그게 상황의 끝입니다. 항공편 취소로 인한 문제를 처리해야 했던 적이 있습니까? 그 경험을 자세히 설명해 주십시오. 언제, 어디서 일어났는지, 정확히 무슨 일이 있었는지 말씀해 주십시오. 처음부터 끝까지 그 이야기를 해 주십시오.	Đó là kết thúc tình huống. Bạn đã từng phải xử lý vấn đề do chuyến bay bị hủy chưa? Hãy mô tả chi tiết trải nghiệm đó. Hãy cho tôi biết chuyện đó xảy ra khi nào, ở đâu và chính xác chuyện gì đã xảy ra. Hãy kể câu chuyện đó từ đầu đến cuối.	"Yes, I have experienced a canceled flight before.
+It happened  when I was traveling with my family.
+After arriving at the airport, we were informed that our flight was canceled because of bad weather.
+The airline staff helped us rebook another flight for the next day.
+We stayed overnight and continued our trip the next day.
+Even though it was inconvenient, the problem was resolved,"		https://luandai123.github.io/OpicTest/Role-Play _Trip_13_3.mp3	
+Role-Play _Trip	Kể trải nghiệm đi nước ngoài và so sánh địa lý.	13.4	That's the end of the situation. Have you ever been on a trip to another country? How is the geography there different from your country's	그게 상황의 끝입니다. 다른 나라로 여행을 가 본 적이 있습니까? 그곳의 지형은 당신 나라의 지형과 어떻게 다릅니까?	Đó là kết thúc tình huống. Bạn đã từng đi du lịch đến một quốc gia khác chưa? Địa hình ở đó khác với đất nước bạn như thế nào?	"Yes, I have traveled to another country before.
+I visited China a few years ago.
+The geography in China is very different from my country.
+China is much larger, so it has many kinds of landscapes.
+In some areas, there are high mountains and long rivers.
+In other places, there are wide plains and large deserts.
+Some cities in China are surrounded by mountains, while others are near the sea.
+Compared to my country, China’s geography is more diverse."		https://luandai123.github.io/OpicTest/Role-Play _Trip_13_4.mp3	
+Role-Play _Trip	Kể vấn đề gặp phải khi lên kế hoạch du lịch và cách xử lý.	13.5	That's the end of the situation. You may have had problems while you were planning a trip. What was the problem and how did you deal with the situation	그게 상황의 끝입니다. 여행을 계획하는 동안 문제가 있었을 수도 있습니다. 그 문제는 무엇이었고, 그 상황에 어떻게 대처했습니까?	Đó là kết thúc tình huống. Có thể bạn đã gặp vấn đề trong khi lên kế hoạch cho một chuyến đi. Vấn đề đó là gì, và bạn đã xử lý tình huống đó như thế nào?	"Yes, I had a problem while planning a trip before.
+A few months ago, I was planning a trip with my family, but we couldn’t agree on the travel dates.
+Everyone had a different schedule, so it was hard to choose a time.
+To resolve this, we talked together and checked everyone’s free time.
+Finally, we decided to shorten the trip and choose a weekend.
+In the end, the trip was successful. 
+This experience taught me that good communication is very important when planning a trip."		https://luandai123.github.io/OpicTest/Role-Play _Trip_13_5.mp3	
+Role-Play_Clothing store	Đến cửa hàng quần áo hỏi thông tin khi mua quần áo.	11	I'd like to give you a situation and ask you to act it out. You are at a clothing store and need to get some clothes. Ask two to three questions about the clothes you would like to buy	나는 당신에게 상황을 제시하고 그것을 실행해 보라고 요청하고 싶습니다. 당신은 옷가게에 가서 옷을 사야 합니다. 사고 싶은 옷에 대해 2~3가지 질문을 해보세요.	Tôi muốn đưa ra cho bạn một tình huống và yêu cầu bạn thực hiện nó. Bạn cần đến cửa hàng quần áo để mua đồ. Hãy đặt 2-3 câu hỏi về món đồ bạn muốn mua.	"Hi,  I’m here because  I need some information.
+I’m looking for some clothes.
+Do you have this in my size?
+What colors are available?
+And how much is it?
+Thank you."		https://luandai123.github.io/OpicTest/Role-Play_ClothingStore_11_1.mp3	
+Role-Play_Clothing store	Gọi điện cho cửa hàng báo cửa hàng quần áo bị lỗi và đề xuất giải pháp.	12	I'm sorry, but there is a problem I need you to resolve. The clothes you have ordered have arrived, but one of the shirts has a problem Call the clothing store and explain the problem. Give two to three alternatives to solve the problem	죄송합니다. 해결해야 할 문제가 있습니다. 주문하신 옷이 도착했는데 셔츠 중 하나에 문제가 있습니다. 옷가게에 전화해서 문제를 설명하세요. 문제를 해결하기 위해 2~3가지 대안을 제시하세요.	Xin lỗi, nhưng có một vấn đề cần giải quyết. Quần áo bạn đặt mua đã đến nhưng một trong những chiếc áo sơ mi có vấn đề. Hãy gọi điện cho cửa hàng quần áo và giải thích vấn đề. Hãy đưa ra 2-3 phương án để giải quyết vấn đề.	"Hello, this is Nam. I’m calling because there’s a problem with my order.
+I received my clothes today, but one of the shirts is damaged.
+I’d like to ask about solutions.
+Could I exchange it?
+Could I get a refund?
+Or could you send a replacement?
+Thank you for your assistance."		https://luandai123.github.io/OpicTest/Role-Play_ClothingStore_12_1.mp3	
+Role-Play_Clothing store	Kể trải nghiệm không hài lòng với sản phẩm/dịch vụ.	13	Have you ever been unhappy with something that you bought or some service you received? What was the problem? How did you deal with the situation? Tell me everything in detail.	당신이 구입한 물건이나 받은 서비스에 만족하지 못한 적이 있습니까? 문제는 무엇 이었습니까? 그 상황을 어떻게 처리했나요? 모든 것을 자세히 말해 보세요.	Bạn đã từng không hài lòng với món đồ đã mua hoặc dịch vụ đã nhận chưa? Vấn đề là gì? Bạn đã xử lý tình huống đó như thế nào? Hãy kể chi tiết mọi chuyện.	"Yes, I have been unhappy with a product before.
+I bought a shirt online, but the size was wrong.
+When I received it, it was much smaller than expected.
+I contacted the store and explained the problem.
+They allowed me to return the shirt and get a refund.
+In the end, the problem was solved smoothly."		https://luandai123.github.io/OpicTest/Role-Play_ClothingStore_13_1.mp3	
+Role-Play_Shopping	Đến cửa hàng hỏi thông tin về khuyến mại	11	I'd like to give you a situation and ask you to act it out. You see a sign at your favorite store that says that they are having a big sale. Go to the store end ask three or four questions to get as much information as possible about the sale.	나는 당신에게 상황을 제시하고 그것을 실행해 보라고 요청하고 싶습니다. 당신이 좋아하는 가게에 큰 세일을 한다는 안내문이 붙어 있는 것을 보았습니다. 가게에 가서 세일에 대한 정보를 최대한 많이 얻기 위해 3~4가지 질문을 해보세요.	Tôi muốn đưa ra cho bạn một tình huống và yêu cầu bạn thực hiện nó. Bạn nhìn thấy một tấm biển tại cửa hàng yêu thích của mình thông báo rằng họ đang có đợt giảm giá lớn. Hãy đến cửa hàng và đặt 3-4 câu hỏi để có được càng nhiều thông tin càng tốt về đợt giảm giá đó.			https://luandai123.github.io/OpicTest/Role-Play_Shopping_11_1.mp3	
+Role-Play_Shopping	Gọi điện cho cửa hàng về việc quên món đồ ở cửa hàng và đề xuất giải pháp	12	I'm sorry. Please solve my problem. You bought several items at the store but accidentally left one behind. Call the store and explain the situation. Ask when you can go to the store to pick up your lost item	미안합니다. 제가 드리는 문제를 해결해 주십시오. 당신은 가게에서 여러 물건을 샀는데 실수로 하나를 두고 왔습니다. 가게에 전화해서 상황을 설명하십시오. 잃어버린 물건을 찾으러 언제 갈 수 있는지 물어보십시오.	Xin lỗi, nhưng tôi cần bạn giải quyết một vấn đề. Bạn đã mua nhiều món đồ ở cửa hàng nhưng vô tình để quên lại một món. Hãy gọi điện cho cửa hàng và giải thích tình huống. Hãy hỏi khi nào bạn có thể đến cửa hàng để lấy lại món đồ bị bỏ quên.			https://luandai123.github.io/OpicTest/Role-Play_Shopping_12_1.mp3	
+Role-Play_Shopping	Hỏi tôi về mua sắm	13	I also like shopping. Ask me three or four questions about the last shopping I did	저도 쇼핑을 좋아합니다. 제가 최근에 한 쇼핑에 대해 서너 가지 질문을 해 보십시오.	Tôi cũng thích mua sắm. Hãy hỏi tôi ba bốn câu hỏi về lần mua sắm gần đây nhất của tôi.			https://luandai123.github.io/OpicTest/Role-Play_Shopping_13_1.mp3	
+Role-Play_Doctor	Gọi điện cho bệnh viện hỏi thông tin và đặt lịch khám.	11	Please listen carefully to the following role play situation and act out your role. You are about to make a doctor's appointment. Call the hospital and ask three or four questions about what you need to know. After that, schedule an appointment	다음 롤플레이 상황을 잘 듣고 맡은 역할을 연기해 주십시오. 당신은 병원 진료 예약을 하려고 합니다. 병원에 전화해서 알아야 할 것에 대해 서너 가지 질문을 하십시오. 그 후에 진료 시간을 정하십시오.	Hãy lắng nghe kỹ tình huống đóng vai sau đây và diễn vai được giao. Bạn muốn đặt lịch khám tại bệnh viện. Hãy gọi điện cho bệnh viện và đặt ba bốn câu hỏi về những điều cần biết. Sau đó hãy đặt giờ khám.	"Hi, I’m calling because I need some information.
+I’d like to make a doctor’s appointment.
+What time is available?
+Do you accept insurance?
+And what should we prepare?
+Thank you."		https://luandai123.github.io/OpicTest/Role-Play_Doctor_11_1.mp3	
+Role-Play_Doctor	Gọi điện cho bệnh viện báo không thể đi khám và  phương án xin đổi lịch.	12	I'm sorry. Please solve my problem. Something happened and I couldn't go to the hospital. Call the hospital and explain the situation. Offer two or three alternatives to help you make a new appointment	미안합니다. 제가 드리는 문제를 해결해 주십시오. 무언가 일이 생겨서 병원에 갈 수 없게 되었습니다. 병원에 전화해서 상황을 설명하십시오. 새로운 진료 예약을 할 수 있도록 두세 가지 대안을 제시하십시오.	Xin lỗi, nhưng tôi cần bạn giải quyết một vấn đề. Có việc đột xuất xảy ra khiến bạn không thể đến bệnh viện được. Hãy gọi điện cho bệnh viện và giải thích tình huống. Hãy đưa ra hai ba phương án để có thể đặt lịch khám mới.	"Hello, this is Nam. I’m calling regarding my hospital appointment today.
+Something unexpected happened this morning and I couldn’t make it to the hospital on time.
+Because of this, I missed my scheduled appointment.
+I apologize for the inconvenience.
+To resolve this situation, I’d like to ask if I can reschedule the appointment for another day. 
+If that’s not possible, I’m also open to having an online consultation or seeing a different doctor this week.
+Please let me know what options are available. Thank you very much."		https://luandai123.github.io/OpicTest/Role-Play_Doctor_12_1.mp3	
+Role-Play_Doctor	Kể trải nghiệm phải thay đổi lịch hẹn dịch vụ.	13	That's the end of the situation. Have you ever had to change an a appointment for a certain service? What happened art what did you do? Give me all the details about that experience	그게 상황의 끝입니다. 특정 서비스에 대한 약속을 변경해야 했던 적이 있습니까? 무슨 일이 일어났나요? 무슨 짓을 한 거예요? 그 경험에 대한 모든 세부 사항을 알려주십시오.	Đó là kết thúc tình huống. Bạn đã từng phải thay đổi lịch hẹn cho một dịch vụ cụ thể nào đó chưa? Chuyện gì đã xảy ra? Bạn đã làm gì? Hãy cho tôi biết mọi chi tiết về trải nghiệm đó.	"Yes, I have changed an appointment before.
+This happened when I had a dentist appointment.
+On that day, something urgent came up, so I couldn’t make it.
+I called the clinic and explained my situation.
+They helped me reschedule the appointment for another day.
+Everything went smoothly, and I appreciated their flexibility."		https://luandai123.github.io/OpicTest/Role-Play_Doctor_13_1.mp3	
+Role-Play_Food store	Gọi cho bạn hỏi bạn về cửa hàng thực phẩm họ giới thiệu.	11	I'd like to give you a situation and ask you to act it out. Your friend told you about a food store that he or she goes to. Call your friend and ask about the food store to get some information	나는 당신에게 상황을 제시하고 그것을 실행해 보라고 요청하고 싶습니다. 당신의 친구가 자신이 가는 식품점에 대해 말했습니다. 친구에게 전화해서 식품점에 대해 물어보고 정보를 얻으세요.	Tôi muốn đưa ra cho bạn một tình huống và yêu cầu bạn thực hiện nó. Bạn của bạn đã kể về cửa hàng thực phẩm mà người đó thường đến. Hãy gọi điện cho bạn của bạn để hỏi về cửa hàng đó và lấy thông tin.	"Hi, I’m calling because I need some information.
+You mentioned a food store you often go to.
+Where is it located?
+What kind of food do they sell?
+And is it affordable?
+Thanks for your help."		https://luandai123.github.io/OpicTest/Role-Play_FoodStore_11_1.mp3	
+Role-Play_Food store	Gọi điện cho cửa hàng báo cửa hàng vì để quên đồ và đề xuất cách xử lý.	12	I'm sorry, but there is a problem need you to resolve. You have accidentally left your groceries behind at the food store. Call the food store and explain the situation. Give two to three solutions	죄송합니다. 해결해야 할 문제가 있습니다. 당신은 실수로 식품점에 식료품을 두고 왔습니다. 식품점 칼리에 가서 상황을 설명하세요. 2~3가지 해결책을 제시하세요.	Xin lỗi, nhưng có một vấn đề cần giải quyết. Bạn đã vô tình để quên thực phẩm tại cửa hàng tạp hóa. Hãy đến quầy của cửa hàng tạp hóa và giải thích tình huống. Hãy đưa ra 2-3 giải pháp.	"Hello, this is Nam. I’m calling because there’s a problem.
+I was shopping earlier today, but I accidentally left my groceries behind.
+I wanted to ask if they were found.
+If possible, I could come back to pick them up.
+Or you could keep them for me.
+If not, I’d like to repurchase them.
+Thank you."		https://luandai123.github.io/OpicTest/Role-Play_FoodStore_12_1.mp3	
+Role-Play_Food store	Kể về cửa hàng thực phẩm bạn hay đi và điều đặc biệt.	13	That's the end of the situation. Talk about the food store you go to. How did you first go there? What was special about that place	그게 상황의 끝입니다. 당신이 가는 식품점에 대해 이야기해 보세요. 처음에는 어떻게 거기로 가셨나요? 그 곳의 특별한 점은 무엇이었나요?	Đó là kết thúc tình huống. Hãy kể về cửa hàng thực phẩm mà bạn thường đến. Lần đầu tiên bạn đến đó như thế nào? Điều gì đặc biệt ở nơi đó?	"I usually go to a food store near my house.
+I first went there because my friend recommended it to me.
+The store is clean and well organized.
+They sell fresh food at reasonable prices.
+The staff are friendly and helpful.
+What I like most is that they have many local products.
+I go there almost every week.
+It has become my favorite food store."		https://luandai123.github.io/OpicTest/Role-Play_FoodStore_13_1.mp3	
+Role-Play_Furniture	Đến của hành nội thất hỏi thông tin mua đồ nội thất	11	I'd like to give you a situation and ask you to act it out. You are at a store and you see a piece of furniture that you like. Go to the clerk and ask three or four questions about the furniture you want to buy	나는 당신에게 상황을 제시하고 그것을 실행해 보라고 요청하고 싶습니다. 당신은 상점에 가서 당신이 좋아하는 가구를 발견했습니다. 점원에게 가서 사고 싶은 가구에 대해 3~4가지 질문을 해보세요.	Tôi muốn đưa ra cho bạn một tình huống và yêu cầu bạn thực hiện nó. Bạn đến cửa hàng và tìm thấy một món đồ nội thất mà bạn thích. Hãy đến gặp nhân viên bán hàng và đặt 3-4 câu hỏi về món đồ nội thất bạn muốn mua.	"Hi, I’m here because I need some information.
+I’m interested in this piece of furniture.
+Could you tell me the price?
+What material is it made of?
+And do you offer delivery?
+Thank you."		https://luandai123.github.io/OpicTest/Role-Play_Furniture_11_1.mp3	
+Role-Play_Furniture	Gọi điện cho cửa hàng báo cửa hàng vì đồ nội thất bị lỗi và đề xuất giải pháp.	12	I'm sorry, but there is a problem I need you to resolve. When you receive the furniture at home, there is a serious problem with it. Call the store, explain the situation and Offer two to three alternatives to solve the problem	죄송합니다. 해결해야 할 문제가 있습니다. 집에서 가구를 받았을 때, 심각한 문제가 있는 것입니다. 매장에 전화해서 상황을 설명하고 문제 해결을 위한 2~3가지 대안을 제안하세요.	Xin lỗi, nhưng có một vấn đề cần giải quyết. Khi nhận đồ nội thất tại nhà, bạn phát hiện có vấn đề nghiêm trọng. Hãy gọi điện cho cửa hàng, giải thích tình huống và đề xuất 2-3 phương án để giải quyết vấn đề.	"Hi, this is Nam. I’m calling about furniture that was delivered to my home today.
+Unfortunately, when I opened the package, I found that the furniture was damaged. One part is broken and can’t be used properly.
+Because of this issue, I’d like to request a solution.
+We could exchange it for a new one, arrange a return with a refund, or send someone to repair it.
+Please advise me on the next steps.
+Thank you."		https://luandai123.github.io/OpicTest/Role-Play_Furniture_12_1.mp3	
+Role-Play_Furniture	Kể trải nghiệm gặp vấn đề khi mua đồ nội thất.	13	That's the end of the situation. Have you ever bought furniture but had a problem when you got it? What was the problem and how did you deal with the situation	그게 상황의 끝입니다. 가구를 구입했지만 구입 후 문제가 발생한 적이 있습니까? 문제는 무엇이었고, 그 상황에 어떻게 대처했나요?	Đó là kết thúc tình huống. Bạn đã từng mua đồ nội thất nhưng sau khi mua thì gặp vấn đề chưa? Vấn đề đó là gì, và bạn đã xử lý tình huống đó như thế nào?	"Yes, I had a problem with furniture that I bought.
+I ordered a desk online for my home office.
+When the desk arrived, I noticed that one of the legs was damaged.
+I contacted the furniture store and explained the problem in detail.
+I also sent them photos of the damaged part.
+They apologized and offered me two options: a replacement or a partial refund.
+I chose to get a replacement, and the new desk arrived in good condition.
+In the end, the problem was solved well."		https://luandai123.github.io/OpicTest/Role-Play_Furniture_13_1.mp3	
+Role-Play_Hair salon	Đến cửa hàng cắt tóc, giải thích về kiểu tóc không phù hợp và giải pháp	11	I'm sorry. Please solve my problem. I cut my hair, but it seems like the shape is wrong. I don't like it. Explain your problem to your hairdresser and suggest a solution	미안합니다. 제가 드리는 문제를 해결해 주십시오. 머리를 잘랐는데 머리 모양이 잘못된나 봅니다. 저는 마음에 들지 않습니다. 미용사에게 문제를 설명하고 방안을 제시하십시오.	Xin lỗi, nhưng tôi cần bạn giải quyết một vấn đề. Bạn vừa cắt tóc nhưng có vẻ kiểu tóc bị sai. Bạn không hài lòng với nó. Hãy giải thích vấn đề với thợ làm tóc và đề xuất phương án giải quyết.	"Hi, I’m here because there is a problem with my haircut.
+The shape isn’t what I wanted.
+Could you please fix it?
+Or could I come back for a correction?
+Thank you."		https://luandai123.github.io/OpicTest/Role-Play_HairSalon_11_1.mp3	
+Role-Play_Hair salon	Gọi điện cho tiệm tóc hỏi về các dịch vụ.	12	I'm planning to get my hair cut at a new hair salon. Call the salon and ask three or four questions about what services they offer	새 미용실에서 머리를 자르려고 합니다. 미용실에 전화해서 어떤 서비스가 있는지 서너 가지 질문하십시오.	Bạn muốn cắt tóc ở một tiệm làm tóc mới. Hãy gọi điện cho tiệm làm tóc và đặt ba bốn câu hỏi về các dịch vụ mà tiệm có.	"Hello, this is Nam. I’m calling because I’m planning to get a haircut at your salon.
+Before visiting, I’d like to ask a few questions.
+What types of services do you offer?
+Do you provide both men’s and women’s haircuts?
+I’m also wondering about the price, how long the haircut usually takes, and whether I need to make an appointment in advance.
+Thank you for your time. I look forward to your reply."		https://luandai123.github.io/OpicTest/Role-Play_HairSalon_12_1.mp3	
+Role-Play_Hair salon	Hỏi tôi về tiệm tóc tôi yêu thích.	13	Like you, I often go to the hair salon. Please ask me a few questions about my favorite salon	저도 당신처럼 미용실에 자주 갑니다. 제가 좋아하는 미용실에 대해 질문을 몇가지 해 보십시오.	Tôi cũng giống bạn, thường xuyên đi tiệm làm tóc. Hãy hỏi tôi một vài câu hỏi về tiệm làm tóc mà tôi yêu thích.	"I’d like to ask you a few questions about your favorite hair salon.
+First, where is the salon located, and how easy is it to get there?
+Second, what kind of services do they offer?
+For example, do they only do haircuts, or do they also offer coloring and styling?
+Third, how much does a regular haircut usually cost, and do you need to make an appointment in advance?
+Lastly, what do you like most about this salon? 
+I’m thinking of trying a new place."		https://luandai123.github.io/OpicTest/Role-Play_HairSalon_13_1.mp3	
+Role-Play_Health	Gọi điện cho trung tâm thể dục hỏi thông tin lớp học.	11	I'd like to give you a situation and ask you to act it out. You want to enroll for a class at a fitness center. Call the fitness center and ask questions about their programs	나는 당신에게 상황을 제시하고 그것을 실행해 보라고 요청하고 싶습니다. 당신은 피트니스 센터의 수업에 등록하고 싶습니다. 피트니스 센터에 전화해서 프로그램에 대해 질문해 보세요.	Tôi muốn đưa ra cho bạn một tình huống và yêu cầu bạn thực hiện nó. Bạn muốn đăng ký một lớp học tại trung tâm thể hình. Hãy gọi điện cho trung tâm thể hình và đặt câu hỏi về các chương trình của họ.	"Hello, I’m calling because I need some information.
+I’d like to enroll in a fitness class.
+What programs do you offer?
+How often are the classes?
+And how much is the membership fee?
+Thank you."		https://luandai123.github.io/OpicTest/Role-Play_Health_11_1.mp3	
+Role-Play_Health	Gọi điện cho huấn luyện viên báo không đến được và  phương án xin đổi lịch.	12	I'm sorry there is a problem need you to resolve. There is an emergency and you cannot wake it to the session with your personal trainer. Call your trainer and explain the situation. Give some alternatives to make arrangements for a schedule change	죄송합니다. 해결해야 할 문제가 있습니다. 긴급한 일이 생겨서 개인 트레이너와의 수업에 갈 수 없습니다. 트레이너에게 전화해서 상황을 설명하십시오. 일정 변경을 위한 몇 가지 대안을 제시하십시오.	Xin lỗi, nhưng có một vấn đề cần giải quyết. Có việc khẩn cấp xảy ra khiến bạn không thể đến buổi tập với huấn luyện viên cá nhân. Hãy gọi điện cho huấn luyện viên và giải thích tình huống. Hãy đưa ra một vài phương án để sắp xếp thay đổi lịch tập.	"Hi, this is Nam. I’m calling about my personal training session today.
+There’s been an emergency, and I won’t be able to make it to the gym.
+Because of this, I’ll miss today’s session.
+I’m really sorry about this.
+To resolve this, we could reschedule the session for another day, move it to an online session, or add this session to next week’s schedule.
+Please let me know which option you prefer. Thank you."		https://luandai123.github.io/OpicTest/Role-Play_Health_12_1.mp3	
+Role-Play_Health	Kể những việc đã làm để cải thiện sức khỏe.	13	That is the end of the situation. Have you ever tried anything to become healthier? Tell me everything that you did to improve your health	그게 상황의 끝입니다. 더 건강해지기 위해 무언가를 시도해 본 적이 있습니까? 건강을 개선하기 위해 했던 모든 것을 말씀해 주십시오.	Đó là kết thúc tình huống. Bạn đã từng thử làm điều gì đó để trở nên khỏe mạnh hơn chưa? Hãy kể cho tôi nghe mọi điều bạn đã làm để cải thiện sức khỏe của mình.	"Yes, I have tried to become healthier.
+Last year, I decided to improve my lifestyle.
+I started exercising three times a week and ate healthier food.
+I also tried to drink more water and sleep earlier.
+At first, it was difficult to keep the routine.
+However, after a few weeks, I felt more energetic and less stressed.
+These small changes helped me improve both my physical and mental health.
+"		https://luandai123.github.io/OpicTest/Role-Play_Health_13_1.mp3	
+Role-Play_House	Gọi điện cho văn phòng quản lý thuê nhà hỏi về việc thuê nhà	11	I would like to give you a situation and ask you act it out. You would like to find a house to live in. Call a management office and ask three or four questions about getting a to live in	나는 당신에게 상황을 제시하고 그것을 실행해 보라고 요청하고 싶습니다. 당신은 살고 싶은 집을 찾고 싶습니다. 관리 사무소에 전화하여 거주할 수 있는 방법에 대해 3~4가지 질문을 하십시오.	Tôi muốn đưa ra cho bạn một tình huống và yêu cầu bạn thực hiện nó. Bạn muốn tìm một căn nhà để ở. Hãy gọi điện cho văn phòng quản lý và đặt 3-4 câu hỏi về cách để có thể sinh sống ở đó.	"Hello, I’m calling because need some information.
+I’m looking for a place to live.
+How much is the rent?
+What is included in the price?
+And when is it available?
+Thank you very much."		https://luandai123.github.io/OpicTest/Role-Play_House_11_1.mp3	
+Role-Play_House	Gọi điện cho cửa hàng báo cửa sổ nhà bị vỡ và cách giải quyết	12	I am sorry, but there is a problem I need you to resolve. You have moved into the new house tut found out that ore of the windows in your apartment is broken. Call the repair shop, explain why you have to get a new window as soon as possible	죄송합니다. 해결해야 할 문제가 있습니다. 당신은 새 집으로 이사했는데 아파트 창문의 광석이 깨졌다는 것을 알게 되었습니다. 수리점에 전화해서 가능한 한 빨리 새 창을 받아야 하는 이유를 설명하세요.	Xin lỗi, nhưng có một vấn đề cần giải quyết. Bạn vừa chuyển đến nhà mới và phát hiện ra cửa kính của căn hộ bị vỡ. Hãy gọi điện cho cửa hàng sửa chữa và giải thích lý do bạn cần một tấm kính mới càng sớm càng tốt.	"Hello, this is Nam. I’m calling because there’s a problem in my new apartment.
+I recently moved in, but I discovered that one of the windows is broken.
+Because of this, it’s unsafe and uncomfortable, especially at night.
+I need this fixed as soon as possible.
+Could you send someone today to inspect it?
+If not, could you provide a temporary solution or replace the window within the next few days?
+Please let me know what you can do. Thank you."		https://luandai123.github.io/OpicTest/Role-Play_House_12_1.mp3	
+Role-Play_House	Kể lần làm hỏng đồ trong nhà và cách giải quyết.	13	That's the end of the situation. Tell me about a time when you broke something at home. What exactly happened and how did you solve the problem? Give me all the details from beginning to end	그게 상황의 끝입니다. 집에서 물건을 망가뜨린 경험에 대해 말해주세요. 정확히 무슨 일이 일어났으며, 문제를 어떻게 해결했나요? 처음부터 끝까지 모든 세부 사항을 알려주십시오.	Đó là kết thúc tình huống. Hãy kể về trải nghiệm bạn từng làm hỏng đồ đạc trong nhà. Chính xác chuyện gì đã xảy ra, và bạn đã giải quyết vấn đề đó như thế nào? Hãy cho tôi biết mọi chi tiết từ đầu đến cuối.	"Yes, I remember a time when the desk in my room broke.
+I had this desk since I was 10 years old, so it had been used for many years.
+One day, I put my bag on the desk, and suddenly one of the legs broke off.
+At first, I thought about trying to fix it, but the desk was too old and damaged.
+So, I decided it was better to buy a new one.
+I went to a furniture store, chose a sturdy desk that I liked, and brought it.
+Now, the new desk is much stronger, and I feel much safer using it.
+This experience taught me that old furniture can break at any time, so sometimes replacing it is better than trying to repair it."		https://luandai123.github.io/OpicTest/Role-Play_House_13_1.mp3	
+Role-Play_Jogging	Gọi điện cho bạn hỏi bạn về việc đi chạy bộ cùng nhau.	11	Please listen carefully to the following role play situation and act out your role. I'm thinking of going jogging with my friend. Call your friend and ask him three or four questions about jogging with you	다음 롤플레이 상황을 잘 듣고 맡은 역할을 연기해 주십시오. 친구와 조깅을 할 생각입니다. 친구에게 전화해서 함께 조깅하는 것에 대해 서너 가지 질문을 하십시오.	Hãy lắng nghe kỹ tình huống đóng vai sau đây và diễn vai được giao. Bạn đang định đi chạy bộ cùng bạn của mình. Hãy gọi điện cho bạn của bạn và đặt ba bốn câu hỏi về việc chạy bộ cùng nhau.	"Hi, I’m calling because I want to go jogging with you.
+When do you usually jog?
+Where do you like to run?
+And how long do you usually jog?
+Let me know. Thnaks"		https://luandai123.github.io/OpicTest/Role-Play_Jogging_11_1.mp3	
+Role-Play_Jogging	Gọi điện cho bạn báo không chạy bộ được vì mưa và đề xuất phương án khác.	12	I'm sorry. Please solve my problem. I decided to go jogging with my friend this morning, but it looks like it's going to rain. Call your friend and explain the situation. Then suggest two or three alternatives to this problem	미안합니다. 제가 드리는 문제를 해결해 주십시오. 오늘 아침 친구와 함께 조깅하기로 했는데 비가 내릴 것 같습니다. 친구에게 전화해서 그 상황을 설명하십시오. 그리고 나서 이 문제에 대한 두세 가지 대안을 제시하십시오.	Xin lỗi, nhưng tôi cần bạn giải quyết một vấn đề. Sáng nay bạn đã hẹn đi chạy bộ cùng bạn của mình nhưng có vẻ trời sắp mưa. Hãy gọi điện cho bạn của bạn và giải thích tình huống đó. Sau đó, hãy đưa ra hai ba phương án thay thế cho vấn đề này.	"Hi, this is Nam. I’m calling about our jogging plan this morning.
+It looks like it’s going to rain soon, and I’m worried that jogging might not be safe.
+To deal with this, I have a few ideas.
+We could jog indoors, delay our plan until later today, or reschedule for another day when the weather is better.
+Let me know what you think. Thanks."		https://luandai123.github.io/OpicTest/Role-Play_Jogging_12_1.mp3	
+Role-Play_Jogging	Từ chối chạy bộ cùng bạn và đề xuất lựa chọn khác.	13	I'm sorry. Please solve my problem. Your friend asked you to go jogging, but you want to go alone. Explain your situation to your friend. Please suggest two or three alternative solutions to this problem	미안합니다. 제가 드리는 문제를 해결해 주십시오. 친구는 당신에게 조깅을 가자고 했는데 당신은 혼자 가고 싶습니다. 친구에게 당신의 상황을 설명하십시오. 이 문제를 해결할 수 있는 대안을 두세 가지 제시해 보십시오.	Xin lỗi, nhưng tôi cần bạn giải quyết một vấn đề. Bạn của bạn rủ bạn đi chạy bộ cùng, nhưng bạn lại muốn đi một mình. Hãy giải thích tình huống của bạn với bạn của bạn. Hãy đưa ra hai ba phương án để giải quyết vấn đề này.	"I want to explain my situation about jogging.
+Normally, I enjoy jogging in the morning, but recently I prefer to do it alone.
+Jogging alone helps me relax and clear my mind, especially when I feel stressed. It’s my personal time to think and enjoy the quiet.
+I hope you can understand. Maybe we can jog together on the weekend instead, or we can meet after I finish my jog and have breakfast together.
+I really value our friendship, and I just want to find a solution that works for both of us."		https://luandai123.github.io/OpicTest/Role-Play_Jogging_13_1.mp3	
+Role-Play_Movies	Gọi điện cho rạp chiếu phim hỏi thông tin và mua vé.	11	I'd like to give you a situation and ask to act it out. You want to take your friend to the movies. Call the movie theater and ask three or four questions. Call the theater and ask two to three questions to get tickets for you and your friend	나는 당신에게 상황을 제시하고 그것을 실행해 보라고 요청하고 싶습니다. 당신은 친구를 영화에 데리고 가고 싶습니다. 영화관에 전화해서 3~4가지 질문을 해보세요. 극장에 전화해서 2~3가지 질문을 해서 당신과 친구의 티켓을 구하세요.	Tôi muốn đưa ra cho bạn một tình huống và yêu cầu bạn thực hiện nó. Bạn muốn đưa bạn của mình đi xem phim. Hãy gọi điện cho rạp chiếu phim và đặt 3-4 câu hỏi. Gọi điện cho rạp và đặt 2-3 câu hỏi để mua vé cho bạn và bạn của bạn.	"Hello, I’m calling because I need some information.
+I want to go to the movies with my friend.
+What movies are playing today?
+What time does it start?
+And how much are the tickets?
+Thank you very much."		https://luandai123.github.io/OpicTest/Role-Play_Movies_11_1.mp3	
+Role-Play_Movies	Đến quầy bán vé giải thích với nhân viên bán vé vì bán sai vé và đề xuất giải pháp.	12	I'm sorry, but there is a problem need you to solve. When you and your friend arrive at the theater you that they have sold the wrong tickets to you. Explain the situation the ticket seller at the booth. Offer two or three alternatives to solve the proble	죄송합니다. 해결해야 할 문제가 있습니다. 당신과 당신의 친구가 극장에 도착했을 때 당신은 그들이 당신에게 잘못된 티켓을 팔았다는 것을 알게 되었습니다. 부스에서 티켓 판매원에게 상황을 설명해주세요. 문제 해결을 위해 2~3가지 대안 제시	Xin lỗi, nhưng có một vấn đề cần giải quyết. Khi bạn và bạn của bạn đến rạp, bạn phát hiện ra rằng họ đã bán nhầm vé cho bạn. Hãy giải thích tình huống với người bán vé tại quầy. Hãy đưa ra 2-3 phương án để giải quyết vấn đề.	"Hello, I’m here because there’s a problem with my movie tickets.
+Originally, I bought tickets for one movie and showtime, but when I checked them, they were for a different movie.
+Because of this, my friend and I can’t watch the movie we planned to see.
+I’m sorry to trouble you, but I’d like to suggest a few solutions.
+We can exchange the tickets, get a refund, or move to a later showtime today.
+Please let me know what can be done. Thank you."		https://luandai123.github.io/OpicTest/Role-Play_Movies_12_1.mp3	
+Role-Play_Movies	Kể trải nghiệm phải hủy vé hoặc kế hoạch đã đặt.	13	That is the end of the situation.; Have you ever bought concert tickets or made plans far a trip or made plans for other things, but had to cancel because you could not make it? When was it? What happened? Tell me everything that you did to resolve it	그게 상황의 끝입니다. 콘서트 티켓을 구매하거나 여행을 계획하거나 다른 일을 계획했지만, 가지 못해 취소해야 했던 적이 있나요? 언제였나요? 무슨 일이에요? 문제를 해결하기 위해 수행한 모든 작업을 말하세요.	Đó là kết thúc tình huống. Bạn đã từng mua vé xem hòa nhạc, lên kế hoạch cho một chuyến đi, hoặc lên kế hoạch cho việc khác nhưng phải hủy vì không thể đi được chưa? Đó là khi nào? Chuyện gì đã xảy ra? Hãy nói cho tôi biết tất cả những gì bạn đã làm để giải quyết vấn đề.	"Yes, I have experienced that before.
+Last year, I bought concert tickets with my friend.
+We planned to go on the weekend and were very excited.
+However, the day before the concert, I got sick so I had to cancel concert tickets.
+I contacted the ticket service and explained the situation.
+Unfortunately, the tickets were non-refundable.
+Even though I lost some money, I learned to be more careful when making plans.
+
+"		https://luandai123.github.io/OpicTest/Role-Play_Movies_13_1.mp3	
+Role-Play_Phone	Gọi điện cho cửa hàng hỏi cửa hàng về điện thoại mới.	11	I'd like to give you a situation and ask you to act it out. You would like to buy a new cell phone. Call a store and ask three or four questions about a new phone you would like to purchase	나는 당신에게 상황을 제시하고 그것을 실행해 보라고 요청하고 싶습니다. 당신은 새 휴대폰을 사고 싶습니다. 매장에 전화해서 구입하고 싶은 새 휴대폰에 대해 3~4가지 질문을 해보세요.	Tôi muốn đưa ra cho bạn một tình huống và yêu cầu bạn thực hiện nó. Bạn muốn mua một chiếc điện thoại di động mới. Hãy gọi điện cho cửa hàng và đặt 3-4 câu hỏi về chiếc điện thoại mới bạn muốn mua.	"Hello, I’m calling because I need some information.
+I’m interested in buying a new phone.
+What models do you have?
+How much does it cost?
+And what features does it have?
+Thank you."		https://luandai123.github.io/OpicTest/Role-Play_Phone_11_1.mp3	
+Role-Play_Phone	Gọi điện cho cửa hàng báo  điện thoại có vấn đề mong muốn được đổi sản phẩm.	12	I'm sorry, but there is a problem I need you to resolve. You have received the new phone but the features are not what you expected. You would like to return it to get a new phone. Call the store, explain the situation and make arrangements to get a new product	죄송합니다. 해결해야 할 문제가 있습니다. 새 휴대폰을 받았지만 기능이 기대했던 것과 다릅니다. 새 휴대폰을 구입하기 위해 해당 휴대폰을 반환하고 싶습니다. 매장에 전화해서 상황을 설명하고 새 제품을 구입할 수 있도록 준비하세요.	Xin lỗi, nhưng có một vấn đề cần giải quyết. Bạn đã nhận điện thoại mới nhưng các tính năng không như mong đợi. Bạn muốn trả lại điện thoại đó để mua một chiếc mới. Hãy gọi điện cho cửa hàng, giải thích tình huống và sắp xếp để mua sản phẩm mới.	"Hello, this is Nam calling about a phone I recently purchased.
+I received the new phone yesterday, but the features are not what I expected.
+Some functions are missing, and it doesn’t match the description I was given.
+Because of this, I’d like to return the phone.
+If possible, I’d like to exchange it for another model.
+If not, I’m okay with getting a refund or store credit.
+Please let me know the return process. Thank you."		https://luandai123.github.io/OpicTest/Role-Play_Phone_12_1.mp3	
+Role-Play_Phone	Kể trải nghiệm mua công nghệ không như mong muốn.	13	That's the end of the situation. ; Have you ever bought a piece of technology which was not what you wanted or different from what you had expected? Was the feature not what you wanted or did it just not work properly? Tell me about a time when you bought some new technology	그게 상황의 끝입니다. 원하던 것과 다르거나 기대했던 것과 달랐던 전자 기기를 구입한 적이 있습니까? 원하는 기능이 아니었습니까, 아니면 제대로 작동하지 않았습니까? 새로운 기술 제품을 구입했던 경험에 대해 말씀해 주십시오.	Đó là kết thúc tình huống. Bạn đã từng mua một thiết bị công nghệ không như mong muốn hoặc khác với những gì bạn mong đợi chưa? Tính năng đó không như bạn muốn, hay nó chỉ đơn giản là không hoạt động đúng cách? Hãy kể cho tôi nghe về lần bạn mua một sản phẩm công nghệ mới.	"Yes, I have had that experience before.
+Last year, I bought a new smartphone online because it looked good.
+However, after I started using it, I realized it was not what I expected.
+The battery life was very short, and the phone often became slow. 
+To resolve this, I contacted the online store and explained the issues.
+Luckily, they allowed me to return the phone and get a refund.
+After that, I bought a different phone from a well-known brand.
+This experience taught me to read reviews carefully before buying new technology."		https://luandai123.github.io/OpicTest/Role-Play_Phone_13_1.mp3	
+Role-Play_MP3Player	Gọi  và giải thích mượn máy MP3 của bạn rồi vô tình làm vỡ	11	I'm sorry, but there is a problem I need you to resolve. You recently borrowed an MP3 player from a friend, but while using it you accidentally broke it. Call your friend, explain how you broke it, and offer two or three alternatives to help resolve the problem.	죄송합니다. 해결해야 할 문제가 있습니다. 당신은 최근 친구에게서 MP3 플레이어를 빌렸는데, 사용하다가 실수로 그것을 깨뜨렸습니다. 친구에게 전화해서 어떻게 깨뜨렸는지 설명하고 문제 해결에 도움이 될 두세 가지 대안을 제시하십시오.	Xin lỗi, nhưng có một vấn đề cần giải quyết. Gần đây bạn đã mượn máy nghe nhạc MP3 của bạn mình, nhưng trong khi sử dụng bạn vô tình làm vỡ nó. Hãy gọi điện cho bạn của bạn, giải thích bạn đã làm vỡ nó như thế nào, và đưa ra hai ba phương án giúp giải quyết vấn đề.			-	
+Role-Play_MP3Player	Gọi điện cho bạn của bạn và hỏi về chiếc máy MP3 mà người đó đang sử dụng	12	Next time, listen carefully to the role play situation and act out your role. I'm thinking of buying an MP3 player. Call her friend and ask about the MP3 player he or she is using. Ask three or four questions that will help you decide whether to buy the product your friend is using	다음에 롤플레이 상황을 잘 듣고 맡은 역할을 연기해 주십시오. MP3 플레이어를 구입하려고 합니다. 친구에게 전화를 걸어 그나 그녀가 사용 중인 MP3 플레이어에 대해 물어보십시오. 친구가 사용하고 있는 제품을 구입할 것인지 여부를 결정하는 데 도움이 될 서너 가지 질문을 하십시오.	Hãy lắng nghe kỹ tình huống đóng vai sau đây và diễn vai được giao. Bạn đang định mua một máy nghe nhạc MP3. Hãy gọi điện cho bạn của bạn và hỏi về chiếc máy MP3 mà người đó đang sử dụng. Hãy đặt ba bốn câu hỏi giúp bạn quyết định có nên mua sản phẩm mà bạn của bạn đang dùng hay không.			-	
+Role-Play_MP3Player	Kể chi tiết chuyện gì xảy ra và cách giải quyết máy Mp3 bị hỏng	13	That's the end of the situation. Tell me about a time when a piece of equipment broke or stopped working. What happened, and how did it happen? How did you solve the problem? Please tell me as much as possible.	그게 상황의 끝입니다. 장비가 고장나거나 작동하지 않았던 경험에 대해 이야기해 주세요. 무슨 일이었으며, 어떻게 된 일입니까? 문제를 어떻게 해결하셨나요? 가능한 한 많이 말해주세요.	Đó là kết thúc tình huống. Hãy kể về trải nghiệm khi một thiết bị bị hỏng hoặc không hoạt động. Chuyện gì đã xảy ra, và nó đã diễn ra như thế nào? Bạn đã giải quyết vấn đề đó như thế nào? Hãy kể càng chi tiết càng tốt.			-	
+Role-Play_Technology	Gọi điện cho cửa hàng báo cho cửa hàng về thiết bị điện tử mớ imua không hoạt động.	11	I'm sorry. Please solve my problem. You purchased an electronic item and it has just been delivered. But the electronics don't work. Call the electronics store and explain the situation and what you want to do to resolve the problem	미안합니다. 제가 드리는 문제를 해결해 주십시오. 당신은 전자제품 하나를 구입했고 방금 배달되었습니다. 그런데 그 전자제품이 작동하지 않습니다. 전자제품매장에 전화를 걸어 상황을 설명하고 문제해결을 위하 무엇을 하고 싶은지 설명하십시오.	Xin lỗi, nhưng tôi cần bạn giải quyết một vấn đề. Bạn đã mua một thiết bị điện tử và nó vừa được giao đến. Nhưng thiết bị điện tử đó không hoạt động. Hãy gọi điện cho cửa hàng điện tử, giải thích tình huống và nói rõ bạn muốn làm gì để giải quyết vấn đề.	"Hello, I’m calling because there is a problem.
+I received an electronic item, but it doesn’t work properly.
+I’d like to return it or exchange it.
+Could you tell me the process?
+And how long will it take?
+Thank you."	"Hello, I’m calling because there is a problem.
+I received an electronic item, but it doesn’t work properly.
+I’d like to return it or exchange it.
+Could you tell me the process?
+And how long will it take?
+Thank you."	https://luandai123.github.io/OpicTest/Role-Play_Technology_11_1.mp3	
+Role-Play_Technology	Gọi điện cho bạn hỏi về về máy MP3 họ đang dùng để quyết định mua.	12	Next time, listen carefully to the role play situation and act out your role. I'm thinking of buying an Game player. Call her friend and ask about the Game player he or she is using. Ask three or four questions that will help you decide whether to buy the product your friend is using	다음에 롤플레이 상황을 잘 듣고 맡은 역할을 연기해 주십시오. 게임기를 구입하려고 합니다. 친구에게 전화를 걸어 그나 그녀가 사용 중인 게임기에 대해 물어보십시오. 친구가 사용하고 있는 제품을 구입할 것인지 여부를 결정하는 데 도움이 될 서너 가지 질문을 하십시오.	Hãy lắng nghe kỹ tình huống đóng vai sau đây và diễn vai được giao. Bạn đang định mua một máy chơi game. Hãy gọi điện cho bạn của bạn và hỏi về chiếc máy chơi game mà người đó đang sử dụng. Hãy đặt ba bốn câu hỏi giúp bạn quyết định có nên mua sản phẩm mà bạn của bạn đang dùng hay không.	"Hi, this is Nam. I’m thinking about buying an MP3 player and wanted to ask you a few questions.
+How long have you been using your MP3 player?
+How is the sound quality?
+Also, does the battery last long enough for daily use?
+I’m also curious if it’s easy to use and whether you’ve had any problems with it.
+Based on your experience, would you recommend it to me?
+Thanks for sharing your opinion."	"Hi, this is Nam. I’m thinking about buying an MP3 player and wanted to ask you a few questions.
+How long have you been using your MP3 player?
+How is the sound quality?
+Also, does the battery last long enough for daily use?
+I’m also curious if it’s easy to use and whether you’ve had any problems with it.
+Based on your experience, would you recommend it to me?
+Thanks for sharing your opinion."	https://luandai123.github.io/OpicTest/Role-Play_Technology_12_1.mp3	
+Role-Play_Technology	Gọi điện cho cửa hàng báo cửa hàng vì điện thoại thiếu tính năng và xin đổi.	13	I'm sorry. Please fix my problem. When I got home with my new phone, I found out that it didn't have all the features I needed. Call the store and explain the problem in detail. How can I get a new phone? Please suggest a way	미안합니다. 제가 드리는 문제를 해결해 주십시오. 새 휴대폰을 가지고 집에 왔는데, 필요한 기능이 모두 있지 않다는 것을 알게 되었습니다. 매장에 전화해서 문제를 자세히 설명하십시오. 새 휴대폰을 어떻게 받을 수 있습니까? 방법을 제안해 주십시오.	Xin lỗi, nhưng tôi cần bạn giải quyết một vấn đề. Khi mang điện thoại mới về nhà, bạn phát hiện ra nó không có đầy đủ các tính năng bạn cần. Hãy gọi điện cho cửa hàng và giải thích chi tiết vấn đề. Làm thế nào để bạn có thể nhận được một chiếc điện thoại mới? Hãy đề xuất một cách giải quyết.	"Hi, I’m calling because I have a problem with my new phone.
+After getting home, I realized it doesn’t have the features I need.
+For example, it doesn’t support the apps I use for work, and the storage size is smaller than what I expected.
+I would like to exchange it for another model or get a refund.
+Please let me know what options are available.
+Thank you very much for your help.
+"	"Hi, I’m calling because I have a problem with my new phone.
+After getting home, I realized it doesn’t have the features I need.
+For example, it doesn’t support the apps I use for work, and the storage size is smaller than what I expected.
+I would like to exchange it for another model or get a refund.
+Please let me know what options are available.
+Thank you very much for your help.
+"	https://luandai123.github.io/OpicTest/Role-Play_Technology_13_1.wav	
+Role-Play_Website	Gọi điện cho bạn hỏi bạn về website học AI.	11	I'd like to give you a situation and ask you to act it out. Your friend has found a learning Website about AI. Call your friend and ask three or four questions the Website he/she has found	나는 당신에게 상황을 제시하고 그것을 실행해 보라고 요청하고 싶습니다. 친구가 AI에 관한 학습 웹사이트를 찾았습니다. 친구에게 전화해서 그가 찾은 웹사이트에 대해 3~4가지 질문을 해보세요.	Tôi muốn đưa ra cho bạn một tình huống và yêu cầu bạn thực hiện nó. Bạn của bạn đã tìm thấy một trang web học tập về AI. Hãy gọi điện cho bạn của bạn và đặt 3-4 câu hỏi về trang web mà người đó đã tìm thấy.	"Hi, I’m calling because I need some information.
+You mentioned a learning website about AI.
+What can you learn there?
+Is it free or paid?
+And is it beginner-friendly?
+Thanks a lot."	"Hi, I’m calling because I need some information.
+You mentioned a learning website about AI.
+What can you learn there?
+Is it free or paid?
+And is it beginner-friendly?
+Thanks a lot."	https://luandai123.github.io/OpicTest/Role-Play_Website_11_1.mp3	
+Role-Play_Website	Gọi điện giải thích cho hỗ trợ kỹ thuật vì lỗi trình duyệt và hỏi phương án giải quyết	12	I'm sorry but there is a problem need you to resolve. You have tried to that Website. Out there is something Wrong With your Web browser. Call the internet help desk and ask for help. Explain why you need to get help as soon as possible	죄송합니다. 해결해야 할 문제가 있습니다. 그 웹사이트에 접속하려고 했지만 웹 브라우저에 문제가 있습니다. 인터넷 상담 센터에 전화해서 도움을 요청하십시오. 왜 빨리 도움을 받아야 하는지 설명하십시오.	Xin lỗi, nhưng có một vấn đề cần giải quyết. Bạn đã cố truy cập trang web đó nhưng trình duyệt web của bạn gặp trục trặc. Hãy gọi điện cho bộ phận hỗ trợ internet để nhờ giúp đỡ. Hãy giải thích lý do bạn cần được giúp đỡ càng sớm càng tốt.	"Hi, this is Nam. I’m calling because I’m having trouble accessing a website.
+I tried using my browser several times, but the website keeps crashing and won’t load properly.
+I need to use this website urgently for my work.
+Because of this, I’d really appreciate your help as soon as possible.
+Could you guide me through fixing my browser settings, help me reset the system, or suggest another way to access the website?
+Thank you for your support. I look forward to your help."	"Hi, this is Nam. I’m calling because I’m having trouble accessing a website.
+I tried using my browser several times, but the website keeps crashing and won’t load properly.
+I need to use this website urgently for my work.
+Because of this, I’d really appreciate your help as soon as possible.
+Could you guide me through fixing my browser settings, help me reset the system, or suggest another way to access the website?
+Thank you for your support. I look forward to your help."	https://luandai123.github.io/OpicTest/Role-Play_Website_12_1.mp3	
+Role-Play_Website	Kể trải nghiệm gặp sự cố internet/website.	13	That's the end of the situation. Have you ever had any trouble on the internet? Perhaps, you had difficulty using a Website or you lost internet connection. What was the exact problem how did you deal With the situation	그게 상황의 끝입니다. 인터넷에서 문제를 겪은 적이 있습니까? 웹사이트를 이용하는 데 어려움을 겪었거나 인터넷 연결이 끊겼을 수도 있습니다. 정확히 어떤 문제였으며 그 상황에 어떻게 대처했습니까?	Đó là kết thúc tình huống. Bạn đã từng gặp rắc rối nào trên internet chưa? Có thể bạn đã gặp khó khăn khi sử dụng một trang web hoặc bị mất kết nối internet. Vấn đề chính xác là gì và bạn đã xử lý tình huống đó như thế nào?	"Yes, I have experienced trouble on the internet before.
+One day, my internet connection suddenly stopped working while I was working from home.
+At first, I tried restarting  the modem, but it didn’t help.
+Then, I contacted customer service and explained the problem.
+They guided me step by step and fixed the issues
+After that, everything returned to normal and I was able to finish my work on time."	"Yes, I have experienced trouble on the internet before.
+One day, my internet connection suddenly stopped working while I was working from home.
+At first, I tried restarting  the modem, but it didn’t help.
+Then, I contacted customer service and explained the problem.
+They guided me step by step and fixed the issues
+After that, everything returned to normal and I was able to finish my work on time."	https://luandai123.github.io/OpicTest/Role-Play_Website_13_1.mp3	
+Role-Play_Rental car	Gọi điện cho công ty thuế xe về việc thuê xe một tuần.	11	I would like to give you a situation and ask you to act it out. You need to rent a car for about a week. Call the rental agency and ask several questions about the car you want to rent	나는 당신에게 상황을 제시하고 그것을 실행해 보라고 요청하고 싶습니다. 일주일 정도 차를 렌트해야 해요. 렌트업체에 전화해서 렌트하고 싶은 자동차에 대해 몇 가지 질문을 해보세요.	Tôi muốn đưa ra cho bạn một tình huống và yêu cầu bạn thực hiện nó. Bạn cần thuê xe khoảng một tuần. Hãy gọi điện cho công ty cho thuê xe và đặt một vài câu hỏi về chiếc xe bạn muốn thuê.	"Hello, I’m calling because I want to rent a car for about a week.
+What cars are available?
+How much is the daily rate?
+And is insurance included?
+Thank you very much."	"Hello, I’m calling because I want to rent a car for about a week.
+What cars are available?
+How much is the daily rate?
+And is insurance included?
+Thank you very much."	https://luandai123.github.io/OpicTest/Role-Play_RentalCar_11_1.mp3	
+Role-Play_Rental car	Gọi điện cho công ty thuê xe báo có vấn đề và đưa ra phương án giải quyết	12	I'm sorry, but there is a I need you to resolve. You have received the rental car, but there are many problems with it. Call the rental agency and explain the situation. Give two to three alternatives	죄송하지만 해결해 주셔야 할 일이 있습니다. 렌트카를 받았으나 문제가 많습니다. 렌트업체에 전화해서 상황을 설명하세요. 2~3가지 대안을 제시하세요.	Xin lỗi, nhưng có một việc bạn cần giải quyết. Bạn đã nhận xe thuê nhưng nó có rất nhiều vấn đề. Hãy gọi điện cho công ty cho thuê xe và giải thích tình huống. Hãy đưa ra 2-3 phương án thay thế.	"Hello, this is Nam. I’m calling because there’s a problem with the rental car,
+After I picked it up, I noticed some problems, like strange noises and a warning light.
+Because of this, I don’t feel safe driving it.
+To resolve this, I would like to request a different replacement car.
+If that’s not possible, I would like a repair or a partial refund.
+Please let me know the best solution. Thank you."	"Hello, this is Nam. I’m calling because there’s a problem with the rental car,
+After I picked it up, I noticed some problems, like strange noises and a warning light.
+Because of this, I don’t feel safe driving it.
+To resolve this, I would like to request a different replacement car.
+If that’s not possible, I would like a repair or a partial refund.
+Please let me know the best solution. Thank you."	https://luandai123.github.io/OpicTest/Role-Play_RentalCar_12_1.mp3	
+Role-Play_Rental car	Kể trải nghiệm thuê xe: lý do, thời gian, địa điểm.	13	That's the end of the situation. Have you ever rented a car from a rental car agency? Why did you rent the car? When and where did you rent the car? Give me all the details about that experience	그게 상황의 끝입니다. 렌터카 업체에서 자동차를 렌트한 적이 있나요? 왜 차를 빌렸어요? 언제 어디서 차를 렌트하셨나요? 그 경험에 대한 모든 세부 사항을 알려주십시오.	Đó là kết thúc tình huống. Bạn đã từng thuê xe từ một công ty cho thuê xe chưa? Tại sao bạn lại thuê xe? Bạn đã thuê xe khi nào và ở đâu? Hãy cho tôi biết mọi chi tiết về trải nghiệm đó.	"Yes, I have rented a car from a rental agency before.
+This happened about two years ago during a family trip.
+We rented a car because we wanted to travel comfortably and visit places that were hard to reach by public transportation.
+We rented the car at the airport, and the process was simple.
+The staff explained the rules clearly, and the car was clean and in good condition. We used it for several days without any problems.
+Overall, renting a car made our trip more convenient and enjoyable."	"Yes, I have rented a car from a rental agency before.
+This happened about two years ago during a family trip.
+We rented a car because we wanted to travel comfortably and visit places that were hard to reach by public transportation.
+We rented the car at the airport, and the process was simple.
+The staff explained the rules clearly, and the car was clean and in good condition. We used it for several days without any problems.
+Overall, renting a car made our trip more convenient and enjoyable."	https://luandai123.github.io/OpicTest/Role-Play_RentalCar_13_1.mp3	
+Role-Play_Restaurant	Gọi điện cho nhà hàng để đặt chỗ cho sự kiện.	11	Please listen carefully to the following role play situation and act out your role. You will need to reserve a restaurant in preparation for your event. Call the restaurant and ask three or four questions to help make reservations for your event	다음 롤플레이 상황을 잘 듣고 맡은 역할을 연기해 주십시오. 당신은 행사를 준비하기 위해 식당을 예약해야 합니다. 식당에 전화해서 예약에 도움이 될 서너 가지 질문을 하십시오.	Hãy lắng nghe kỹ tình huống đóng vai sau đây và diễn vai được giao. Bạn cần đặt chỗ tại một nhà hàng để chuẩn bị cho sự kiện của mình. Hãy gọi điện cho nhà hàng và đặt ba bốn câu hỏi để giúp việc đặt chỗ cho sự kiện của bạn.	"Hi, I’m calling because I need some information.
+I’d like to make a reservation for an event.
+Do you have availability on that date?
+How many people can you accommodate?
+And do you offer set menus?
+Thank you very much."	"Hi, I’m calling because I need some information.
+I’d like to make a reservation for an event.
+Do you have availability on that date?
+How many people can you accommodate?
+And do you offer set menus?
+Thank you very much."	https://luandai123.github.io/OpicTest/Role-Play_Restaurant_11_1.mp3	
+Role-Play_Restaurant	Đến nhà hàng đã đặt chỗ nhưng họ nói không có thông tin đặt bàn, đề xuất và giải pháp.	12	I'm sorry. Please solve my problem. You arrive at the restaurant you had a reservation at, but they say they don't have your reservation. Explain the situation to the restaurant owner and offer two or three alternatives	미안합니다. 제가 드리는 문제를 해결해 주십시오. 예약된 음식점에 도착했는데 당신의 예약이 없다고 합니다. 식당 주인에게 상황을 설명하고 두세 가지 대안을 제시하십시오.	Xin lỗi, nhưng tôi cần bạn giải quyết một vấn đề. Bạn đến nhà hàng đã đặt chỗ trước nhưng họ nói không có thông tin đặt chỗ của bạn. Hãy giải thích tình huống với chủ nhà hàng và đưa ra hai ba phương án thay thế.	"- Hi, this is Nam. I’m here because there’s a problem with my reservation.
+- I made a reservation for tonight under my name, but when I arrived, your staff said there was no record of it. 
+- Because of this, I don’t have a table and my friend is already waiting with me.
+- To solve this problem, I’d like to suggest a few options.
+  .We could wait for the next available table
+  .Or move to another branch of your restaurant nearby.
+  .If possible, we could also change the reservation time to later this evening.
+- Please let me know what you can do. 
+- Thank you for your help."	"- Hi, this is Nam. I’m here because there’s a problem with my reservation.
+- I made a reservation for tonight under my name, but when I arrived, your staff said there was no record of it. 
+- Because of this, I don’t have a table and my friend is already waiting with me.
+- To solve this problem, I’d like to suggest a few options.
+  .We could wait for the next available table
+  .Or move to another branch of your restaurant nearby.
+  .If possible, we could also change the reservation time to later this evening.
+- Please let me know what you can do. 
+- Thank you for your help."	https://luandai123.github.io/OpicTest/Role-Play_Restaurant_12_1.mp3	
+Role-Play_Restaurant	Hỏi tôi về nhà hàng tôi thích ăn.	13	I also enjoy eating at restaurants. Ask me three or four questions about my favorite places	저도 식당에서 식사하는 것을 좋아합니다. 제가 좋아하는 곳에 대해 서너 가지 질문을 해 보십시오.	Tôi cũng thích ăn ở nhà hàng. Hãy hỏi tôi ba bốn câu hỏi về những nơi tôi yêu thích.	"I’d like to ask you a few questions about your favorite restaurant.
+First, what kind of food do they serve?
+Second, where is the restaurant located?
+Third, how often do you go there?
+Lastly, is it expensive or affordable?
+I’m looking for a new place to try, so your answers would be very helpful.
+
+"	"I’d like to ask you a few questions about your favorite restaurant.
+First, what kind of food do they serve?
+Second, where is the restaurant located?
+Third, how often do you go there?
+Lastly, is it expensive or affordable?
+I’m looking for a new place to try, so your answers would be very helpful.
+
+"	https://luandai123.github.io/OpicTest/Role-Play_Restaurant_13_1.mp3	
+Role-Play_Park	Gọi cho bạn về kế  hoạch đi công viên	11	I'd like to give you a situation to act out. You have made plans with your friend to go to a local park. Call your friend and ask them three to four questions about your plans	당신에게 연기할 상황을 제시하고자 합니다. 당신은 친구와 함께 동네 공원에 가기로 계획을 세웠습니다. 친구에게 전화해서 계획에 대해 서너 가지 질문을 해 보십시오.	Tôi muốn đưa ra cho bạn một tình huống để diễn. Bạn đã lên kế hoạch cùng bạn của mình đi đến công viên gần nhà. Hãy gọi điện cho bạn của bạn và đặt ba bốn câu hỏi về kế hoạch của các bạn.			https://luandai123.github.io/OpicTest/Role-Play_Park_11_1.mp3	
+Role-Play_Park	Gọi cho bạn mình không thể đến gặp nhau ở công viên và đề xuất	12	I'm sorry, but a problem has come up at the last minute. Now, you won't be able to meet your friend at the park. Call your friend and explain your situation. Tell your friend why you can't make it in detail. Give your friend one or two alternatives for what they can do	죄송합니다. 막판에 문제가 생겼습니다. 이제 공원에서 친구를 만날 수 없게 되었습니다. 친구에게 전화해서 상황을 설명하십시오. 갈 수 없는 이유를 자세히 말씀해 주십시오. 친구에게 할 수 있는 한두 가지 대안을 제시하십시오.	Xin lỗi, nhưng có một vấn đề xảy ra vào phút chót. Bây giờ bạn sẽ không thể gặp bạn của mình ở công viên được nữa. Hãy gọi điện cho bạn của bạn và giải thích tình huống. Hãy nói chi tiết lý do tại sao bạn không thể đến được. Hãy đưa ra cho bạn của bạn một hai phương án thay thế.			https://luandai123.github.io/OpicTest/Role-Play_Park_12_1.mp3	
+Role-Play_Park	Kể về kỷ niệm sảy ra ở công viên	13	Tell me about something memorable that happened to you at a park. Maybe there was a special event, or your met someone unexpectedly. Start by telling me some background information. Then, explain in detail what; happened	공원에서 있었던 기억에 남는 일에 대해 말씀해 주십시오. 특별한 행사가 있었을 수도 있고, 예상치 못한 사람을 만났을 수도 있습니다. 먼저 배경 정보를 말씀해 주십시오. 그런 다음, 무슨 일이 있었는지 자세히 설명해 주십시오.	Hãy kể cho tôi nghe về một điều đáng nhớ đã xảy ra với bạn ở công viên. Có thể đã có một sự kiện đặc biệt, hoặc bạn đã gặp ai đó một cách bất ngờ. Trước tiên, hãy cho tôi biết một số thông tin về bối cảnh. Sau đó, hãy giải thích chi tiết chuyện gì đã xảy ra.			https://luandai123.github.io/OpicTest/Role-Play_Park_13_1.mp3	
+Role-Play _Interview	Gọi điện cho công ty hỏi về việc phỏng vấn	11	I'd like give you a situation ask you to act it out. You are going for an interview at a company. Call the company and ask three or four questions about the company	나는 당신에게 그것을 연기하도록 요청하는 상황을 주고 싶습니다. 당신은 회사에 면접을 보러 갑니다. 회사에 전화해서 회사에 대해 3~4가지 질문을 해보세요.	Tôi muốn đưa ra cho bạn một tình huống và yêu cầu bạn diễn lại. Bạn sắp đi phỏng vấn xin việc tại một công ty. Hãy gọi điện cho công ty và đặt 3-4 câu hỏi về công ty đó.	"Hello, my name is Alex, and I’m calling because I have an upcoming interview with your company. I’m very excited about this opportunity, and I’d like to ask a few questions if that’s okay.
+First, I’d like to know more about the company culture. How would you describe the working environment, especially teamwork and communication among employees?
+Second, I’m curious about the position I applied for. What are the main responsibilities during the first few months, and what skills are most important for success in this role?
+Third, does the company provide any training or professional development programs for new employees?
+Finally, I’d like to ask about the interview process. How many interview stages are there, and who will be interviewing me?
+Thank you very much for your time. I look forward to meeting you soon."	"Hello, my name is Alex, and I’m calling because I have an upcoming interview with your company. I’m very excited about this opportunity, and I’d like to ask a few questions if that’s okay.
+First, I’d like to know more about the company culture. How would you describe the working environment, especially teamwork and communication among employees?
+Second, I’m curious about the position I applied for. What are the main responsibilities during the first few months, and what skills are most important for success in this role?
+Third, does the company provide any training or professional development programs for new employees?
+Finally, I’d like to ask about the interview process. How many interview stages are there, and who will be interviewing me?
+Thank you very much for your time. I look forward to meeting you soon."	https://luandai123.github.io/OpicTest/Role-Play _Interview_11_1.mp3	
+Role-Play _Interview	Gọi điện cho công ty không thể đến phỏng vấn và đề xuất lịch hẹn	12	I'm sorry, but there is a problem I need you to resolve. There is an emergency and you cannot make it to the interview. Call the company and explain the situation. Give some alternatives to make arrangements for a schedule change	죄송합니다. 해결해야 할 문제가 있습니다. 긴급 상황이 발생하여 인터뷰에 참석할 수 없습니다. 회사에 전화해서 상황을 설명하세요. 일정 변경을 준비할 수 있는 몇 가지 대안을 제시하십시오.	Xin lỗi, nhưng có một vấn đề cần giải quyết. Có tình huống khẩn cấp xảy ra khiến bạn không thể tham dự buổi phỏng vấn. Hãy gọi điện cho công ty và giải thích tình huống. Hãy đưa ra một vài phương án để có thể sắp xếp thay đổi lịch hẹn.			https://luandai123.github.io/OpicTest/Role-Play _Interview_12_1.mp3	
+Role-Play _Interview	Kể về tình huống huỷ 1 cuộc hẹn	13	That is the end of the situation. Have you ever cancelled an appointment or a meeting for any reason? Why did you have to do that and how did you deal With the situation	그것이 상황의 끝입니다. 어떤 이유로든 약속이나 모임을 취소한 적이 있습니까? 왜 그렇게 해야 했고, 그 상황에 어떻게 대처했나요?	Đó là kết thúc tình huống. Bạn đã từng hủy một cuộc hẹn hoặc cuộc gặp mặt vì bất kỳ lý do gì chưa? Tại sao bạn phải làm như vậy, và bạn đã xử lý tình huống đó như thế nào?			https://luandai123.github.io/OpicTest/Role-Play _Interview_13_1.mp3	
